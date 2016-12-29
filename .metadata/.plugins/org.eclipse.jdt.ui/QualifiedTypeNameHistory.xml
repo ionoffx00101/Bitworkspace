@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="java.text.NumberFormat"/>
+<fullyQualifiedTypeName name="java.math.BigInteger"/>
+<fullyQualifiedTypeName name="bitjava.day2.Number"/>
+<fullyQualifiedTypeName name="bitjava.day2.Number2"/>
+<fullyQualifiedTypeName name="bitjava.day2.FruitSeller"/>
+<fullyQualifiedTypeName name="bitjava.day2.FruitBuyer"/>
+<fullyQualifiedTypeName name="bitjava.day2.Otherclass"/>
+<fullyQualifiedTypeName name="bookq.SutdaCard"/>
+<fullyQualifiedTypeName name="bitjava.day2.Calc"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="bitjava.day2.Primenumber"/>
+<fullyQualifiedTypeName name="bitjava.day3.InstCnt"/>
+<fullyQualifiedTypeName name="bitjava.day3.AccessWay"/>
+<fullyQualifiedTypeName name="bitjava.day3.Circle"/>
+<fullyQualifiedTypeName name="bitjava.day3.NumberPrinter"/>
+<fullyQualifiedTypeName name="bitjava.day3.SimpleAdder"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Number"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="bitjava.day4.Number"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

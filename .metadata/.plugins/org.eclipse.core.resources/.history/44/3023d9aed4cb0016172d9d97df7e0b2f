@@ -1,0 +1,22 @@
+package bitjava.day2;
+
+class Number{
+	int num;
+	
+	public Number() {
+	num=10;
+	System.out.println("생성자 호출");
+		
+	}
+	public int getNumber(){
+		return num;
+	}
+}
+public class Constructor01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

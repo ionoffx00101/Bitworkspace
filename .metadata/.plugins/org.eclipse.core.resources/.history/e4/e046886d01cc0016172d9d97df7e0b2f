@@ -1,0 +1,12 @@
+package bitjava.day2;
+
+public class ReculFactorial
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+}

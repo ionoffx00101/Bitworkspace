@@ -1,0 +1,14 @@
+package bitjava.day3;
+
+import java.util.Scanner;
+
+public class Test
+{
+
+	public static void main(String[] args)
+	{
+		Scanner kb = new Scanner(System.in);
+		System.out.println(kb);
+	}
+
+}

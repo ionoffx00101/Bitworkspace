@@ -1,0 +1,18 @@
+package bitjava.day1;
+
+public class Prob9 {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int account = 1000;
+		int addaccount = 0;
+		int year = 0;
+		while (true) {
+			addaccount += account * 0.5;
+
+			if (addaccount / account == 2) {
+				System.out.println(year);
+				break;
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+package bitjava.day3;
+
+public class ClassVarAccess
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+}

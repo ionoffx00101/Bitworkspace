@@ -1,0 +1,28 @@
+package bitjava.day3;
+
+public class SelfReference
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class SimpleAdder
+{
+	private int num;
+
+	public SimpleAdder()
+	{
+		num = 0;
+	}
+	public SimpleAdder add(int num){
+		return null;
+	}
+	public void showResult(){
+		
+	}
+
+}

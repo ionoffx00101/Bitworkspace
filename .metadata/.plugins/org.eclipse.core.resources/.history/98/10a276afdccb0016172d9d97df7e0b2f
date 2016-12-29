@@ -1,0 +1,10 @@
+package bitjava.day2;
+
+public class FruitSales {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

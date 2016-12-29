@@ -1,0 +1,48 @@
+package bitjava.day4;
+
+import java.util.Scanner;
+
+// 배열{3,5,7,11,13,17,19}를 뒤집기
+public class ArrayEx06
+{
+	public static void showAll(int[][] num)
+	{
+		for (int i = 0; i < num.length; i++)
+		{
+			for (int j = 0; j < num.length; j++)
+			{
+				System.out.print(num[i][j] + "	");
+			}
+			
+		}
+	}
+
+	public static void main(String[] args)
+	{
+		int[][] num = {{ 1,2,3 },{ 4,5,6 },{ 7,8,9 }};
+		int[][] num2 = {{ 4,5,6 },{ 7,8,9 },{ 1,2,3 }};
+		int[][] result = new int[num.length][num[0].length*2];
+
+		//기존 배열 출력
+		showAll(num);
+		showAll(num2);
+		
+		//결합
+		for (int i = num.length; i >0; i++)
+		{
+			for (int j = 0; j < num[0].length*2; j++)
+			{
+				if(j<num[0].length){
+					result[i][j]	= num[i][j];
+				}
+				else{
+					result[i][j]=num2[i][j];
+				}
+			}
+		}
+
+		showAll(result);
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package bitjava.day3;
+
+public class Prob17
+{
+
+	public static void main(String[] args)
+	{
+		String str = "1234567890ABCDEFG";
+
+	}
+
+}

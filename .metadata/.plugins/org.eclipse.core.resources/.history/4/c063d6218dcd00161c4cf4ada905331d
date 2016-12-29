@@ -1,0 +1,11 @@
+package bitjava.day4;
+
+public class EnhancedForinst
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

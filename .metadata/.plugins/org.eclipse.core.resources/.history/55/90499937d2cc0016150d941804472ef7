@@ -1,0 +1,11 @@
+package bitjava.day3;
+
+public class Prob14
+{
+
+	public static void main(String[] args)
+	{
+		String str = "Bit Bit Bit Bi t asdwelx well done crap";
+	}
+
+}

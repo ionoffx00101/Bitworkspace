@@ -1,0 +1,26 @@
+package bitjava.day3;
+
+import java.util.Scanner;
+
+public class Prob05
+{
+
+	public static void main(String[] args)
+	{
+		int count=0;
+		Scanner scanner = new Scanner(System.in);
+		String one= "안녕하하하하세요 이게게 됩니까까";
+		System.out.print("문자 입력 : ");
+		String in = scanner.nextLine();
+		for (int i = 0; i < one.length(); i++)
+		{
+			if(one.indexOf(i)==in.charAt(1)){
+				count++;
+			}
+		}
+		
+		
+		System.out.println(count);
+	}
+
+}
