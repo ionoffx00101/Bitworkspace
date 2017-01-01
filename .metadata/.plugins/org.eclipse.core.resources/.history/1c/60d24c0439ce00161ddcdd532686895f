@@ -1,0 +1,11 @@
+package bitjava.day05;
+
+public class StaticInheritance
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

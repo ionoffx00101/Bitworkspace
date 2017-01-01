@@ -33,7 +33,7 @@ public class Q05_11
 				int hap=0;
 				for (int h = 0; h < score.length; h++)
 				{
-					hap+=result[h][k];
+					hap+=result[h][k];     
 				}
 				result[score.length][k]=hap;
 			}

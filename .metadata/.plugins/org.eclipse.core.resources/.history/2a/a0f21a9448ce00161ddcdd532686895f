@@ -1,0 +1,19 @@
+package bitjava.day05;
+
+public class HASAInheritance
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Gun
+{
+}
+
+class Police extends Gun
+{
+}
