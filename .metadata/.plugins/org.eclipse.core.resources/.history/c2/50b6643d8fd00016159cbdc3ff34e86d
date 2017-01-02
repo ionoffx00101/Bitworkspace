@@ -1,0 +1,56 @@
+package bitjava.Prob;
+
+public class Line extends Point {
+	Point begin;
+	Point end;
+
+	public static void main(String[] args) {
+
+	}
+
+	public Line(int x1, int y1, int x2, int y2) {
+
+	}
+
+	public Line(Point begin, Point end) {
+		this.begin = begin;
+		this.end = end;
+	}
+
+	public int getBeginX() {
+		return 0;
+	}
+
+	public void setBeginX(Point begin) {
+		this.begin = begin;
+	}
+
+	public int getBeginY() {
+		return 0;
+	}
+
+	public void setBeginY(Point begin) {
+		this.begin = begin;
+	}
+
+	public void BeginXY() {
+
+	}
+
+	public void getBeginXY() {
+
+	}
+
+	public void setBeginXY() {
+
+	}
+
+	public Point getEnd() {
+		return end;
+	}
+
+	public void setEnd(Point end) {
+		this.end = end;
+	}
+
+}

@@ -1,0 +1,11 @@
+package bitjava.day06;
+
+public class MultiInheritance
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

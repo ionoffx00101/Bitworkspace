@@ -1,0 +1,61 @@
+package bitjava.day06.Prob02;
+
+public class Circle {
+	Point center;
+	double radius;
+
+	public static void main(String[] args) {
+
+	}
+
+	// Circle()
+	public Circle() {
+		center = new Point(0, 0);
+		radius = 0.0;
+	}
+
+	public Circle(int xCenter, int yCenter, double radius) {
+
+	}
+
+	public Circle(Point center, double radius) {
+		this.center = center;
+		this.radius = radius;
+	}
+
+	// getRadius()
+	public double getRadius() {
+		return radius;
+	}
+
+	public void setRadius(double radius) {
+		this.radius = radius;
+	}
+
+	// getCenter()
+	public Point getCenter() {
+		return center;
+	}
+
+	public void setCenter(Point center) {
+		this.center = center;
+	}
+
+	// getCenterX()
+	public Point getCenterX() {
+		return center;
+	}
+
+	public void setCenterX(int x) {
+		this.center.setX(x);
+	}
+
+	// getCenterY()
+	public Point getCenterY() {
+		return center;
+	}
+
+	public void setCenterY(int y) {
+		this.center.setX(y);
+	}
+}

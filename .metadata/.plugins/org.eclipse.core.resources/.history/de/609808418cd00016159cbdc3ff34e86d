@@ -1,0 +1,9 @@
+package bitjava.Prob;
+
+public class Line {
+
+	public static void main(String[] args) {
+
+	}
+
+}

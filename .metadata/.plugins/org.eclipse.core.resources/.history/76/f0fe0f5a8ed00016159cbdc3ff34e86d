@@ -1,0 +1,19 @@
+package bitjava.Prob;
+
+public class Line {
+	Point begin;
+	Point end;
+
+	public static void main(String[] args) {
+
+	}
+
+	public Line(int x1, int y1, int x2, int y2) {
+
+	}
+
+	public Line(Point begin, Point end) {
+		this.begin = begin;
+		this.end = end;
+	}
+}

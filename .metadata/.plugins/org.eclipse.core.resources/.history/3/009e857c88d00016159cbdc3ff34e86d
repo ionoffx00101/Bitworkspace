@@ -1,0 +1,11 @@
+package bitjava.day06;
+
+public class Author
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

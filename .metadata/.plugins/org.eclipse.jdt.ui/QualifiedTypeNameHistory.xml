@@ -19,7 +19,6 @@
 <fullyQualifiedTypeName name="bitjava.day3.SimpleAdder"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.Number"/>
 <fullyQualifiedTypeName name="bitjava.day4.Number"/>
 <fullyQualifiedTypeName name="bitjava.day05.BusinessMan"/>
@@ -34,8 +33,19 @@
 <fullyQualifiedTypeName name="bitjava.day05.Gun"/>
 <fullyQualifiedTypeName name="bitjava.day05.Police"/>
 <fullyQualifiedTypeName name="bitjava.day05.Speaker"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="bitjava.day05.BaseEnSpeaker"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="bitjava.Prob.Author"/>
+<fullyQualifiedTypeName name="bitjava.Prob.book"/>
+<fullyQualifiedTypeName name="bitjava.Prob.Line"/>
+<fullyQualifiedTypeName name="bitjava.Prob.Point"/>
+<fullyQualifiedTypeName name="bitjava.day06.Prob02.Point"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="bitjava.day06.Prob02.Circle"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="bitjava.day06.IPTV"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="bitjava.day06.OuterClass"/>
+<fullyQualifiedTypeName name="bitjava.day06.OuterClass.InnerClass"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="bookq.thisjava.Parent"/>
 </qualifiedTypeNameHistroy>

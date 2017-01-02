@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/bitjava/src/bitjava/day3/Prob03.java"/>
+<listEntry value="/bitjava/src/bitjava/day03/Prob03.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="bitjava.day3.Prob03"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="bitjava.day03.Prob03"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="bitjava"/>
 </launchConfiguration>

@@ -1,0 +1,15 @@
+package bitjava.Prob;
+
+public class book
+{
+	String name;
+	Author author;
+	double price;
+	int qty;
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

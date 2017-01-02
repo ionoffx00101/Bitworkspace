@@ -1,0 +1,18 @@
+package bitjava.day06;
+
+public class PersonalNumberStorage{
+
+	public static void main(String[] args) {
+
+	}
+
+}
+abstract class ePersonalNumberStorage{
+	
+}
+class PersonalNumInfo{
+	
+}
+class PersonalNumberStorageImple extends PersonalNumberStorage{
+	
+}

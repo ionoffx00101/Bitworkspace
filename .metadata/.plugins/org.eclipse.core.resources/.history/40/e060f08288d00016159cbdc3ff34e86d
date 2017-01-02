@@ -1,0 +1,15 @@
+package bitjava.Prob;
+
+public class Example01
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Author{
+	
+}
