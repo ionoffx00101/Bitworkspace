@@ -1,0 +1,11 @@
+package Tetez;
+
+public class TetEzFrame
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

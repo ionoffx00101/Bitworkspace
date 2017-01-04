@@ -1,0 +1,11 @@
+package bitjava.day01_04;
+
+public class ComparablePerson
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

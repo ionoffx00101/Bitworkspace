@@ -1,0 +1,31 @@
+package bitjava.day01_04;
+
+import java.util.TreeSet;
+
+public class IntroComparator
+{
+
+	public static void main(String[] args)
+	{
+TreeSet<String> tree= new TreeSet<String>(new StrLenComparator());
+
+
+	}
+
+}
+
+class StrLenComparator implements Comparable<String>
+{
+
+	public int compareTo(String s1, String s2)
+	{
+		return s1.length() - s2.length();
+	}
+
+	@Override
+	public int compareTo(String o)
+	{
+		return 0;
+	}
+
+}

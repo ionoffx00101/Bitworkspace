@@ -1,0 +1,40 @@
+package Tetez;
+
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.Toolkit;
+import javax.swing.JFrame;
+
+public class TetEzFrame extends JFrame
+{
+	// 메인 프레임
+	JFrame ezFrame = new JFrame("");
+
+	//컨테이너
+	Container container;
+
+	public static void main(String[] args)
+	{
+		new TetEzFrame();
+
+		
+	}
+	
+	public TetEzFrame(){
+		ezFrame.setSize(600, 600); // 프레임 크기 지정
+		ezFrame.setVisible(true); // 프레임 보이게 설정
+		ezFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // 종료 버튼 설정
+
+		// 메인 프레임 위치 설정
+		Dimension frameSize = ezFrame.getSize(); // 메인 프레임 크기 구하기
+		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize(); // 모니터 화면 크기 구하기
+
+		ezFrame.setLocation((screenSize.width - frameSize.width) / 2, (screenSize.height - frameSize.height) / 2); // 가운데로 위치 설정
+
+		// 컨테이너 설정
+		container = ezFrame.getContentPane();
+		container.setLayout(null);
+	}
+
+}

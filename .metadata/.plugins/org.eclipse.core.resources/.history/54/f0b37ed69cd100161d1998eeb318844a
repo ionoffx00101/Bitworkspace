@@ -1,0 +1,41 @@
+package Tetez;
+
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.Toolkit;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+import Tetez.FlyingTextEx.MyKeyListener;
+
+public class TetEzFrame extends JFrame
+{
+	// 메인 패널
+	JPanel contentPane = new JPanel();
+
+	//컨테이너
+	Container contentPane;
+
+	public static void main(String[] args)
+	{
+		new TetEzFrame();
+		
+	}
+	
+	TetEzFrame(){
+		setTitle("상,하,좌,우 키를 이용하여 텍스트 움직이기");
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setContentPane(contentPane);
+        contentPane.setLayout(null);
+        contentPane.addKeyListener(new MyKeyListener());
+        la.setLocation(50, 50);
+        la.setSize(100, 20);
+        contentPane.add(la);
+        setSize(300, 300);
+        setVisible(true);
+        contentPane.requestFocus();
+	}
+
+}

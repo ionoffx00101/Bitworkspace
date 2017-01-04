@@ -1,0 +1,16 @@
+package bitjava.year2016.day03;
+
+import java.util.Scanner;
+
+public class Test
+{
+
+	public static void main(String[] args)
+	{
+		System.out.print("ÀÔ·Â ¤¡ : ");
+		Scanner kb = new Scanner(System.in);
+		System.out.println(kb.nextInt());
+		//System.out.println(kb.nextLine());
+	}
+
+}

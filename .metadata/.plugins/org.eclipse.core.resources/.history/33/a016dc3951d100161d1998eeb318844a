@@ -1,0 +1,15 @@
+package bitjava.day01_03.Prob02;
+
+public class Point2D
+{
+private int x =0;
+int y=0;
+	
+	public static void main(String[] args)
+	{
+
+	}
+public void Point(){
+	
+}
+}

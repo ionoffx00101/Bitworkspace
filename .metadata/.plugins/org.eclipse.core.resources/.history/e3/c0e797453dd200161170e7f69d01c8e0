@@ -1,0 +1,15 @@
+package bitjava.day01_04;
+
+import java.util.HashSet;
+
+class SimpleNumberd
+{
+	
+
+}
+public class HashSetEqualityOne(){
+	public static void main(String[] args)
+	{
+HashSet<SimpleNumber>
+	}
+}

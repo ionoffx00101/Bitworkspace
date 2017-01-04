@@ -1,0 +1,18 @@
+package Tetez;
+
+import java.awt.Container;
+
+import javax.swing.JFrame;
+
+public class TetEzFrame extends JFrame
+{
+	JFrame ezFrame = new JFrame("");
+	
+	//컨테이너
+		Container container;
+	public static void main(String[] args)
+	{
+
+	}
+
+}

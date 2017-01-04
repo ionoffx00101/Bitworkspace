@@ -1,0 +1,14 @@
+package jswing;
+
+import javax.swing.JFrame;
+
+public class GamePannel
+{
+	JFrame gameFrame = new JFrame("");
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

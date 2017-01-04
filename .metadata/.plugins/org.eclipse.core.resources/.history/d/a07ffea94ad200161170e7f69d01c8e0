@@ -1,0 +1,22 @@
+package bitjava.day01_04;
+
+public class IntroComparator
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class StrLenComparator implements Comparable<String>
+{
+
+	@Override
+	public int compareTo(String s1, String s2)
+	{
+		return s1.length() - s2.length();
+	}
+
+}

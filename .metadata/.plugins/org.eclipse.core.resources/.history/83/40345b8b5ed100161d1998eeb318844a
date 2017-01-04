@@ -1,0 +1,13 @@
+package sswing;
+
+import javax.swing.*;
+
+public class onepannel extends JFrame
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

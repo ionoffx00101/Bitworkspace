@@ -1,0 +1,11 @@
+package jswing;
+
+public class PanController
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

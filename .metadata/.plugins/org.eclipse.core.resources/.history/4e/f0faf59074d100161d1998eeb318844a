@@ -1,0 +1,11 @@
+package bitjava.day01_03;
+
+public class DivideByZero
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

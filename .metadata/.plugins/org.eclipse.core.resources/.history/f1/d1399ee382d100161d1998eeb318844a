@@ -1,0 +1,11 @@
+package jswing;
+
+public class PanView
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

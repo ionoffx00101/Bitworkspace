@@ -1,0 +1,11 @@
+package bitjava.day01_04;
+
+public class SimpleNumber
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

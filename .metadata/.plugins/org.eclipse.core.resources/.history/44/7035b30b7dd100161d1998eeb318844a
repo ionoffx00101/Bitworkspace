@@ -1,0 +1,18 @@
+package bitjava.day01_03;
+
+public class ThrowsFromMain
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+class AgeInputException extends Exception
+{
+	public AgeInputException()
+	{
+		super("유효하지 않은 나이가 입력됨");
+	}
+}

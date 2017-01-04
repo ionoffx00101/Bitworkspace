@@ -1,0 +1,11 @@
+package bitjava;
+
+public class ProgammerDefineException
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

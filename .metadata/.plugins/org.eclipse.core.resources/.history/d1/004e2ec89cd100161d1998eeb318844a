@@ -1,0 +1,29 @@
+package Tetez;
+
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.Toolkit;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class TetEzFrame extends JFrame
+{
+	// 메인 패널
+	JPanel mainpannel = new JPanel();
+
+	//컨테이너
+	Container container;
+
+	public static void main(String[] args)
+	{
+		new TetEzFrame();
+		
+	}
+	
+	TetEzFrame(){
+		
+	}
+
+}

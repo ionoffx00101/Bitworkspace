@@ -1,0 +1,11 @@
+package bitjava.day01_03.Prob03;
+
+public class Teacher
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

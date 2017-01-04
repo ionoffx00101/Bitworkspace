@@ -1,0 +1,39 @@
+package bitjava.day01_03.Prob03;
+
+import java.util.Arrays;
+
+public class Teacher extends Person
+{
+
+	private int numCourses=0;//private int numCourses;
+	private String[] courses={};//private String[] courses;
+
+	public static void main(String[] args)
+	{
+
+	}
+
+	public Teacher(String name, String address)
+	{
+		super(name, address);
+	}
+
+	public boolean addCourse(String course)
+	{
+		return false;
+
+	}
+
+	public boolean removeCourse(String course)
+	{
+		return false;
+
+	}
+
+	@Override
+	public String toString()
+	{
+		return "Teacher : " + super.getName() + "( " + super.getAddress() + " )";
+	}
+
+}

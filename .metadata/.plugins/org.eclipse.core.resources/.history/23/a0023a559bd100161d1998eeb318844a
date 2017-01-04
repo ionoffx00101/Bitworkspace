@@ -1,0 +1,15 @@
+package Tetez;
+
+import javax.swing.JFrame;
+
+public class TetEzFrame extends JFrame
+{
+	JFrame ezFrame = new JFrame("");
+	
+	
+	public static void main(String[] args)
+	{
+
+	}
+
+}
