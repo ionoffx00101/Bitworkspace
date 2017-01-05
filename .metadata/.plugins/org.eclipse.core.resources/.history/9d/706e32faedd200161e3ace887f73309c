@@ -1,0 +1,55 @@
+package bitjava.day01_05;
+
+public class RunableThread
+{
+
+	public static void main(String[] args)
+	{
+		AdderThread at = new AdderThread(1, 50);
+		AdderThread at2 = new AdderThread(51, 100);
+
+	}
+
+}
+
+class Sum
+{
+	int num;
+
+	public Sum()
+	{
+		num = 0;
+	}
+
+	public void addNum(int n)
+	{
+		num += n;
+	}
+
+	public int getNum()
+	{
+		return num;
+	}
+
+}
+
+class AdderThread extends Sum implements Runnable
+{
+	int start, end;
+
+	public AdderThread(int start, int end)
+	{
+		this.start = start;
+		this.end = end;
+	}
+
+	@Override
+	public void run()
+	{
+		for (int i = start; i < end; i++)
+		{
+			addNum(i);
+		}
+	}
+
+}

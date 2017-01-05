@@ -1,0 +1,34 @@
+package bitjava.day01_05.Prob01;
+
+public class ThreadHeapMultiAccess
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Sum{
+	int num;
+	public Sum(){}
+	public void addNum(int n){num+=n;}
+	public int getNum(){
+		return num;
+	}
+}
+class AdderThread extends Thread{
+	Sum sumInst;
+	int start,end;
+	
+	public AdderThread(Sum sum, int start, int end){
+		sumInst = sum;
+		this.start= start;
+		this.end= end;
+		for (int i = start; i <= end; i++)
+		{
+			sumInst.addNum(i);
+		}
+	}
+}

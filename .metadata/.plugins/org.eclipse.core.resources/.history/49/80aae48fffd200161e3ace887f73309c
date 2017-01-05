@@ -1,0 +1,32 @@
+package bitjava.day01_05;
+
+// Thread.MAX_PRIORITY
+public class PriorotyTestTwo
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class MessageSendingThread2 extends Thread
+{
+	String message;
+
+	public MessageSendingThread2(String str, int prioroty)
+	{
+		message = str;
+		setPriority(prioroty);
+	}
+
+	@Override
+	public void run()
+	{
+		for (int i = 0; i < 10; i++)
+		{
+			System.out.println(message + "	" + getPriority());
+		}
+	}
+}

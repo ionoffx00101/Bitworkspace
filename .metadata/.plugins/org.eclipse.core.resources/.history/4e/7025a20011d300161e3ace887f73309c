@@ -1,0 +1,43 @@
+package bitjava.day01_05;
+
+public class ThreadSyncMethod
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Calculator
+{
+	int opCnt = 0;
+
+	public int add(int n1, int n2)
+	{
+		opCnt++;
+		return n1 + n2;
+	}
+
+	public int min(int n1, int n2)
+	{
+		opCnt++;
+		return n1 - n2;
+	}
+
+	public void showopCnt()
+	{
+		System.out.println("ÃÑ ¿¬»êÈ½¼ö : " + opCnt);
+	}
+}
+
+class AddThread extends Thread
+{
+
+}
+
+class MinThread extends Thread
+{
+
+}

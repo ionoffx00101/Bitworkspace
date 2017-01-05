@@ -1,0 +1,19 @@
+package bitjava.day01_05;
+
+public class PriorotyTestTwo
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+class MessageSendingThread2 extends Thread{
+	String message;
+	
+	public MessageSnedingThread2(String str, int prioroty){
+		message = str;
+		setPriority(prioroty);
+	}
+}

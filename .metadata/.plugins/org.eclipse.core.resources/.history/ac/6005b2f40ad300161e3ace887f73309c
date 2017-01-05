@@ -1,0 +1,21 @@
+package bitjava.day01_05;
+
+public class ThreadHeapMultiAccess
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Sum{
+	int num;
+	public Sum{}
+	public void addNum(int n){num+=n}
+	
+}
+class AdderThread extends Thread{
+	
+}

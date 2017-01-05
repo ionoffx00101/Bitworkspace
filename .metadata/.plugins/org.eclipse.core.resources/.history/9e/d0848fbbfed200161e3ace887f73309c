@@ -1,0 +1,26 @@
+package bitjava.day01_05;
+
+public class PriorityTestOne
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+class MessageSnedingThread extends Thread{
+	
+	String msg;
+	int priority;
+	
+	public MessageSnedingThread(String str){
+		msg= str;
+	}
+
+	@Override
+	public void run()
+	{
+		System.out.println(msg+" "+getPriority());
+	}
+}

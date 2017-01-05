@@ -1,0 +1,27 @@
+package bitjava.day01_05;
+
+public class ThreadSinkError
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Increment
+{
+	int num = 0;
+
+	public void Increment()
+	{
+		num++; //둘이상의 쓰레드가 이문장을 동시에 실행하면서 문제 발생;;;;;;;;;;;
+	}
+
+}
+
+class IncThread extends Thread
+{
+
+}

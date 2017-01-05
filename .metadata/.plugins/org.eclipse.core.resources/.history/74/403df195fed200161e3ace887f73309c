@@ -1,0 +1,11 @@
+package bitjava.day01_05;
+
+public class PriorityTestOne
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

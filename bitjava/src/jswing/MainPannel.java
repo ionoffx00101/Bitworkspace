@@ -23,7 +23,7 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 	Container container;
 
 	//사각형 객체 세트를 담는 JsonArr
-	public JSONArray squreArr = new JSONArray();;
+	public JSONArray squreArr = new JSONArray();
 
 	//사각형 객체 하나를 담는 jsonObj
 	public JSONObject squreObj;
@@ -36,8 +36,6 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 
 	// 버튼 한개
 	JButton startBtn = new JButton("start");
-
-	// 움직이는 사각형 하나.. 나중에 여기서 사라져야함
 
 	public static void main(String[] args)
 	{
@@ -77,8 +75,8 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		gameFrame.setBackground(Color.white);
 		container.add(gameFrame);
 
-		//gameFrame.addKeyListener(this);
-		mainFrame.addKeyListener(this);
+		// 키 리스너 이벤트 설정
+		mainFrame.addKeyListener(this); // this는 keyPressed를 가르킴
 
 	}
 
@@ -91,17 +89,19 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		{
 			//game 스타트 함수 실행
 			GameStart();
-
+			mainFrame.requestFocusInWindow(); //키 프레스의 메인 포커스를 강제로 요청해서 얻어내는 메소드
 		}
+
 		//타이머 처리
 		else if (e.getSource().equals(downtime))
 		{
 			//다운 타임 이랑 같은게 들어오면 게임 사각형 내려가는 함수 실행
 			//게임 데이터 바뀌는 메소드
 			GameGo();
+
 		} else
 		{
-			System.out.println(e.getSource() + "??");
+			System.out.println("무언가 잘못 되었다" + e.getSource());
 
 		}
 
@@ -122,6 +122,7 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		int squreY = 0;
 		// while문 돌리기 위한 객체
 		boolean end = false;
+
 		downtime = new Timer(1000, this);
 
 		//1초마다 타임 ㄱㄱ
@@ -153,9 +154,10 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 	//게임에서 반복되는 영역을 처리한다
 	private void GameGo()
 	{
+		int X = Integer.parseInt(squreObj.get("X").toString()); // 값받아오는 거 ㅂ확인 되면 지워도 됨
 		int Y = Integer.parseInt(squreObj.get("Y").toString());
 
-		// 내가 움직인 값 더하기
+		// 내가 움직인 값 더하기 키 리스너받을때 값 바꿔주기
 
 		//움직이는 사각형에만 Y값 더해주기
 		if (squreObj.get("control").toString().equals("1"))
@@ -164,11 +166,13 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		}
 
 		// 사각형들 그리기
-		System.out.println("타임" + Y);
+		System.out.println("타임" + X + "," + Y);
+
+		// 화면 다시 그려주기9
 		regameFrame();
 
 		//타임이 멈춰주기if(게임종료면)
-		if (Y == 0)
+		if (Y <= 0)
 		{
 			downtime.stop();
 			System.out.println("끝");
@@ -177,7 +181,7 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 	}
 
 	//사각형들 그려주는 메소드 추가 해야함
-	
+
 	// 키값 받아서 처리하는 메소드들
 	@Override
 	public void keyTyped(KeyEvent e)
@@ -187,37 +191,57 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 	@Override
 	public void keyPressed(KeyEvent e)
 	{
-		System.out.println("keyPressed" + e.getKeyCode());
+		//System.out.println("keyPressed" + e.getKeyCode());
 		squreMove(e.getKeyCode()); //obj도 같이 보내야하나..
-		
-
 	}
+
 	@Override
 	public void keyReleased(KeyEvent e)
 	{
 		//System.out.println("keyReleased"+e.getKeyCode());
 	}
+
 	// 키값 받아서 처리하는 메소드들 끝
-	
+
 	// 키 값 받아서 사각형 움직이게 하는 메소드
 	private void squreMove(int keyCode)
 	{
-		if (keyCode == 65)
-		{
-			System.out.println("왼쪽");
+		if(squreArr.size()>0){ //squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨
+			if (keyCode == 65)
+			{
+				
+				if (squreObj.get("control").toString().equals("1"))
+				{
+					//System.out.println("왼쪽");
+					int X = Integer.parseInt(squreObj.get("X").toString());
+					if(X>=10){ // X를 0이하로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값에서 이동거리를 더한 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
+					squreObj.replace("X", X - 10);
+					}
+				}
+			} else if (keyCode == 68)
+			{
 
-		} else if (keyCode == 68)
-		{
-			System.out.println("오른쪽");
+				if (squreObj.get("control").toString().equals("1"))
+				{
+					//System.out.println("오른쪽");
+					int X = Integer.parseInt(squreObj.get("X").toString());
+					if(X<=490){ // X를 490이상로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값크기에서 이동거리를 뺀 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
+					squreObj.replace("X", X + 10);
+					}
+				}
 
-		} else if (keyCode == 83)
-		{
-			System.out.println("아래");
-		} else
-		{
-			System.out.println("아무거나");
-		}
+			} else if (keyCode == 83)
+			{
+				if (squreObj.get("control").toString().equals("1"))
+				{
+					//System.out.println("아래");
+					int Y = Integer.parseInt(squreObj.get("Y").toString());
+					squreObj.replace("Y", Y - 10);
+				}
+			} else
+			{
+				//System.out.println("아무거나");
+			}
+		}//squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨 끝
 	}
-
-	
 }

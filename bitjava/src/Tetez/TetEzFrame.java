@@ -39,6 +39,7 @@ public class TetEzFrame extends JFrame
 		setVisible(true);
 		contentPane.requestFocus();
 
+		
 		squXY xy= new squXY(5,6);
 		xy.getX();
 	}
