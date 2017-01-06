@@ -1,0 +1,31 @@
+package bitjava.day01_06.SocketEX;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.OutputStream;
+
+public class ServerMain
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Server
+{
+	static final int PORT = 3000;
+	ServerSocket serverSocket =null;
+	Socket socket = null;
+
+	InputStream in;
+	OutputStream out;
+	BufferedReader reader;
+	PreintWriter writer;
+	public Server()
+	{
+
+	}
+}

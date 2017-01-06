@@ -1,0 +1,22 @@
+package bitjava.day01_06.charEX;
+
+import java.io.PrintWriter;
+import java.util.HashMap;
+
+public class TcpIpMultichatServer
+{
+	public static final int PORT = 3000;
+	public static HashMap<String, PrintWriter> cilents();
+	public TcpIpMultichatServer(){
+		
+	}
+
+	public static void main(String[] args)
+	{
+new TcpIpMultichatServer();
+	}
+
+}
+class serverReceiver extends Thread{
+	
+}

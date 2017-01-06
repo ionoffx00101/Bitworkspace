@@ -6,12 +6,10 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
+import java.awt.event.*;
+import java.awt.Graphics;
 
-public class MainPannel extends JFrame implements ActionListener, KeyListener
+public class MainPannel extends JFrame implements ActionListener, KeyListener //jfram 상속하던거 jpanel로 바꿈
 {
 	// 메인 프레임
 	JFrame mainFrame = new JFrame("");
@@ -147,6 +145,7 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 	//게임 패널 다시 그려주는 메소드
 	public void regameFrame()
 	{
+		gameFrame.removeAll();
 		gameFrame.revalidate();
 		gameFrame.repaint();
 	}
@@ -154,6 +153,7 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 	//게임에서 반복되는 영역을 처리한다
 	private void GameGo()
 	{
+		Graphics g;
 		int X = Integer.parseInt(squreObj.get("X").toString()); // 값받아오는 거 ㅂ확인 되면 지워도 됨
 		int Y = Integer.parseInt(squreObj.get("Y").toString());
 
@@ -163,13 +163,12 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		if (squreObj.get("control").toString().equals("1"))
 		{
 			squreObj.replace("Y", Y -= 50);
+			// 사각형들 그리기 // 화면 다시 그려주기9
+			regameFrame();
+
 		}
 
-		// 사각형들 그리기
 		System.out.println("타임" + X + "," + Y);
-
-		// 화면 다시 그려주기9
-		regameFrame();
 
 		//타임이 멈춰주기if(게임종료면)
 		if (Y <= 0)
@@ -180,11 +179,14 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 
 	}
 
-	//사각형들 그려주는 메소드 추가 해야함
-
 	// 키값 받아서 처리하는 메소드들
 	@Override
 	public void keyTyped(KeyEvent e)
+	{
+	}
+
+	@Override
+	public void keyReleased(KeyEvent e)
 	{
 	}
 
@@ -195,28 +197,28 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		squreMove(e.getKeyCode()); //obj도 같이 보내야하나..
 	}
 
-	@Override
-	public void keyReleased(KeyEvent e)
-	{
-		//System.out.println("keyReleased"+e.getKeyCode());
-	}
-
 	// 키값 받아서 처리하는 메소드들 끝
 
 	// 키 값 받아서 사각형 움직이게 하는 메소드
 	private void squreMove(int keyCode)
 	{
-		if(squreArr.size()>0){ //squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨
+		if (squreArr.size() > 0)
+		{ //squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨
 			if (keyCode == 65)
 			{
-				
+
 				if (squreObj.get("control").toString().equals("1"))
 				{
 					//System.out.println("왼쪽");
 					int X = Integer.parseInt(squreObj.get("X").toString());
-					if(X>=10){ // X를 0이하로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값에서 이동거리를 더한 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
-					squreObj.replace("X", X - 10);
+					if (X >= 10)
+					{ // X를 0이하로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값에서 이동거리를 더한 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
+						squreObj.replace("X", X - 10);
 					}
+					// 사각형 그리고 화면 다시 그리기
+
+					regameFrame();
+
 				}
 			} else if (keyCode == 68)
 			{
@@ -225,9 +227,14 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 				{
 					//System.out.println("오른쪽");
 					int X = Integer.parseInt(squreObj.get("X").toString());
-					if(X<=490){ // X를 490이상로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값크기에서 이동거리를 뺀 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
-					squreObj.replace("X", X + 10);
+					if (X <= 490)
+					{ // X를 490이상로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값크기에서 이동거리를 뺀 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
+						squreObj.replace("X", X + 10);
 					}
+					// 사각형 그리고 화면 다시 그리기
+
+					regameFrame();
+
 				}
 
 			} else if (keyCode == 83)
@@ -238,6 +245,9 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 					int Y = Integer.parseInt(squreObj.get("Y").toString());
 					squreObj.replace("Y", Y - 10);
 				}
+				// 사각형 그리고 화면 다시 그리기
+
+				regameFrame();
 			} else
 			{
 				//System.out.println("아무거나");
@@ -245,3 +255,13 @@ public class MainPannel extends JFrame implements ActionListener, KeyListener
 		}//squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨 끝
 	}
 }
+
+/*if (squreObj.get("control").toString().equals("1"))    스퀘어 색깔채우는 로직 / 배열 전체를 돌려서 활성화 된것만 색깔하고 보여줘야하나.. 그럼 for(i=0,;squreObj.size();i++) ?
+{
+	int X = Integer.parseInt(squreObj.get("X").toString());
+	int Y = Integer.parseInt(squreObj.get("Y").toString());
+	System.out.println("draw" + X + "," + Y + g);
+	//사각형	x y  width height
+	g.fillRect(X, Y, 40, 40);
+
+}*/

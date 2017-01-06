@@ -1,0 +1,171 @@
+package jswingspilt;
+
+import javax.swing.*;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
+import java.awt.*;
+import java.awt.event.*;
+import java.awt.Graphics;
+
+public class MainPannel extends JPanel implements ActionListener, KeyListener //jfram 상속하던거 jpanel로 바꿈
+{
+	// 메인 프레임
+	JFrame mainFrame = new JFrame("");
+
+	
+
+	//컨테이너
+	Container container;
+
+
+	// 버튼 한개
+	JButton startBtn = new JButton("start");
+
+	public static void main(String[] args)
+	{
+		new MainPannel(); // 메인 패널 실행
+	}
+
+	public MainPannel()
+	{
+
+		// 메인 프레임 설정
+		mainFrame.setSize(600, 600); // 프레임 크기 지정
+		mainFrame.setVisible(true); // 프레임 보이게 설정
+		mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // 종료 버튼 설정
+
+		// 메인 프레임 위치 설정
+		Dimension frameSize = mainFrame.getSize(); // 메인 프레임 크기 구하기
+		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize(); // 모니터 화면 크기 구하기
+
+		mainFrame.setLocation((screenSize.width - frameSize.width) / 2, (screenSize.height - frameSize.height) / 2); // 가운데로 위치 설정
+
+		// 컨테이너 설정
+		container = mainFrame.getContentPane();
+		container.setLayout(null);
+
+		// 스타트 버튼 위치 설정
+		startBtn.setSize(70, 30);
+		startBtn.setLocation(350, 180);
+		container.add(startBtn);
+
+		// 스타트 버튼 이벤트 설정
+		startBtn.addActionListener(this);
+		container.add(new GamePannel());
+
+		// 키 리스너 이벤트 설정
+		mainFrame.addKeyListener(this); // this는 keyPressed를 가르킴
+
+	}
+
+	//버튼,타이머 이벤트 처리
+	@Override
+	public void actionPerformed(ActionEvent e)
+	{
+		//스타트 버튼 처리
+		if (e.getSource().equals(startBtn))
+		{
+			//game 스타트 함수 실행
+			GameStart();
+			mainFrame.requestFocusInWindow(); //키 프레스의 메인 포커스를 강제로 요청해서 얻어내는 메소드
+		}
+
+		//타이머 처리
+		else if (e.getSource().equals(downtime))
+		{
+			//다운 타임 이랑 같은게 들어오면 게임 사각형 내려가는 함수 실행
+			//게임 데이터 바뀌는 메소드
+			GameGo();
+
+		} else
+		{
+			System.out.println("무언가 잘못 되었다" + e.getSource());
+
+		}
+
+	}
+
+	
+	
+
+	// 키값 받아서 처리하는 메소드들
+	@Override
+	public void keyTyped(KeyEvent e)
+	{
+	}
+
+	@Override
+	public void keyReleased(KeyEvent e)
+	{
+	}
+
+	@Override
+	public void keyPressed(KeyEvent e)
+	{
+		//System.out.println("keyPressed" + e.getKeyCode());
+		squreMove(e.getKeyCode()); //obj도 같이 보내야하나..
+
+		regameFrame();
+	}
+
+	// 키값 받아서 처리하는 메소드들 끝
+
+	// 키 값 받아서 사각형 움직이게 하는 메소드
+	private void squreMove(int keyCode)
+	{
+		if (squreArr.size() > 0)
+		{ //squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨
+			if (keyCode == 65)
+			{
+
+				if (squreObj.get("control").toString().equals("1"))
+				{
+					//System.out.println("왼쪽");
+					int X = Integer.parseInt(squreObj.get("X").toString());
+					if (X >= 10)
+					{ // X를 0이하로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값에서 이동거리를 더한 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
+						squreObj.replace("X", X - 10);
+					}
+					// 사각형 그리고 화면 다시 그리기
+	
+					regameFrame();
+
+				}
+			} else if (keyCode == 68)
+			{
+
+				if (squreObj.get("control").toString().equals("1"))
+				{
+					//System.out.println("오른쪽");
+					int X = Integer.parseInt(squreObj.get("X").toString());
+					if (X <= 490)
+					{ // X를 490이상로 안 보낼것이다 --유동적으로 바뀌어야함 game프레임의 Y값크기에서 이동거리를 뺀 값, 그러려면 X랑 Y의 이동거리 변수?를 위에서 지정해줘야함 
+						squreObj.replace("X", X + 10);
+					}
+					// 사각형 그리고 화면 다시 그리기
+
+					regameFrame();
+
+				}
+
+			} else if (keyCode == 83)
+			{
+				if (squreObj.get("control").toString().equals("1"))
+				{
+					//System.out.println("아래");
+					int Y = Integer.parseInt(squreObj.get("Y").toString());
+					squreObj.replace("Y", Y - 10);
+				}
+				// 사각형 그리고 화면 다시 그리기
+
+				regameFrame();
+			} else
+			{
+				//System.out.println("아무거나");
+			}
+		}//squreArr 안에 객체가 한개라도 들어야 키 프레스 값이 활성화됨 끝
+	}
+}
+

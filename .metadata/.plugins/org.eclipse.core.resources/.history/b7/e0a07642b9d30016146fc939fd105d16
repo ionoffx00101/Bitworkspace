@@ -1,0 +1,11 @@
+package bitjava.day01_06;
+
+public class StringReader
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

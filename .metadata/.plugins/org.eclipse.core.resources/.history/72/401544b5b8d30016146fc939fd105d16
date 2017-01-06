@@ -1,0 +1,15 @@
+package bitjava.day01_06;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+
+public class StringWriter
+{
+
+	public static void main(String[] args)
+	{
+BufferedWriter out = new BufferedWriter(new FileWriter("String.txt"));
+
+	}
+
+}

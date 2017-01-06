@@ -1,0 +1,11 @@
+package bitjava.day01_06;
+
+public class SyncNewsPaper
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

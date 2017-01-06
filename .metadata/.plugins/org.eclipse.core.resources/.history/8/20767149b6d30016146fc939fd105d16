@@ -1,0 +1,11 @@
+package jswingspilt;
+
+public class DrawSqure
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

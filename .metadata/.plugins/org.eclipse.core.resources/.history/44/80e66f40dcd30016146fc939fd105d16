@@ -1,0 +1,62 @@
+package bitjava.day01_06.charEX;
+
+import java.io.BufferedReader;
+import java.io.PrintWriter;
+import java.net.Socket;
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class TcpIpMultichatClient
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class ClientSender extends Thread
+{
+	Socket socket;
+	PrintWriter writer;
+	String name;
+
+	ClientSender(Socket socket, String name)
+	{
+		this.socket = socket;
+this.name = name;
+		try
+		{
+			// 6. 소켓으로 부터 인풋스트림 아웃풋 스트림을 얻음
+			writer = new PrintWriter(socket.getOutputStream());
+		} catch (Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public void run()
+	{
+		Scanner kb = new Scanner(System.in);
+		if(writer!=null){
+			writer.println(name);
+			writer.flush();
+		}
+		//7
+		//8
+		while (writer!=null){
+			writer.println(name+" : "+kb.nextLine());
+			writer.flush();
+		}
+		// 9 socket close
+		
+	}
+
+}
+
+class ClientReceiver extends Thread
+{
+
+}

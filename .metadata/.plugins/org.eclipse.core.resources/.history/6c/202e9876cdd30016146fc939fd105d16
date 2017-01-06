@@ -1,0 +1,27 @@
+package jswingspilt;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+
+import javax.swing.JPanel;
+
+public class DrawSqure extends JPanel 
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+	@Override
+	protected void paintComponent(Graphics g)
+	{
+		super.paintComponent(g); // 기존에 그려진 화면을 지정된 배경색으로 지우는 역할을 한다
+
+		Graphics2D g2d = (Graphics2D) g;
+
+		g2d.setColor(Color.BLACK);
+		g2d.fillRect(250, 250, 150, 150);
+
+	}
+}

@@ -1,0 +1,21 @@
+package bitjava.day01_06.charEX;
+
+public class TcpIpMultichatClient
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class ClientSender extends Thread
+{
+
+}
+
+class ClientReceiver extends Thread
+{
+
+}

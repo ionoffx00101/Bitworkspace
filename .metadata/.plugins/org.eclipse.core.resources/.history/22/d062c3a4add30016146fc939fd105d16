@@ -1,0 +1,41 @@
+package bitjava.day01_06;
+
+public class SyncNewsPaper
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+class NewsPaper{
+	String todayNews;
+	boolean isTodayNews=false;
+	public void setTodayNews(String news){
+		todayNews=news;
+		isTodayNews= true;
+		
+		notifyAll();
+	}
+	public String getTodayNews(){
+		if (!isTodayNews)
+		{
+			try
+			{
+				wait();
+			} catch (Exception e)
+			{
+				e.printStackTrace();
+			}
+			
+		}
+		return todayNews;
+	}
+}
+class NewsWriter extends Thread{
+	
+}
+class NewsReader extends Thread{
+	
+}

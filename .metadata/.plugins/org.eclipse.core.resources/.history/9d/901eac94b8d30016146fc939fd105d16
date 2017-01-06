@@ -1,0 +1,11 @@
+package bitjava.day01_06;
+
+public class StringWrite
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

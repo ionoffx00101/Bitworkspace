@@ -1,0 +1,11 @@
+package jswingspilt;
+
+public class GamePannel
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

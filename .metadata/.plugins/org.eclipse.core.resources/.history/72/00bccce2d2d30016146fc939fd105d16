@@ -1,0 +1,21 @@
+package bitjava.day01_06.SocketEX;
+
+public class ServerMain
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+class Server
+{
+	static final int PORT = 3000;
+
+	public Server()
+	{
+
+	}
+}
