@@ -1,0 +1,12 @@
+package jswingspilt;
+
+import java.awt.Color;
+import java.awt.Component;
+
+public class MyRectangle extends Component
+{
+	MyRectangle(int x,int y,int width,int height,Color color){
+		super(x, y, width, height);
+        this.color = color;
+	}
+}

@@ -1,0 +1,22 @@
+package bitjava.day01_10;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Prob01
+{
+
+	public static void main(String[] args)
+	{
+		ArrayList<Integer> arrList = new ArrayList<Integer>;
+		
+		Scanner kb = new Scanner(System.in);
+
+		//입력
+		//숫자를 제거한 숫자를 파악해서 리스트에 추가
+		//최대값 계산
+
+	}
+
+}
+//arraylist, integerParse 

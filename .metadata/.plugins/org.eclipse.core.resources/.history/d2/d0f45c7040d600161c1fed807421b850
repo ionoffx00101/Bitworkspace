@@ -1,0 +1,8 @@
+package jswingspilt;
+
+import java.awt.Component;
+
+public class MyRectangle extends Component
+{
+
+}

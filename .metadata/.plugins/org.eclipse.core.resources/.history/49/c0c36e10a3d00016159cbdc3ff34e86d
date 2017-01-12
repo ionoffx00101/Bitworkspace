@@ -1,9 +1,0 @@
-package bitjava.day06;
-
-public class PersonalNumberStorage {
-
-	public static void main(String[] args) {
-
-	}
-
-}

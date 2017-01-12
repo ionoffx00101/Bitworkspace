@@ -1,9 +1,0 @@
-package bitjava.day06.Prob01;
-
-public class Circle {
-
-	public static void main(String[] args) {
-
-	}
-
-}

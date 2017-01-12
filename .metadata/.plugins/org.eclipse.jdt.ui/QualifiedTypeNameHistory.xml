@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.Iterable"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="org.omg.CORBA.NVList"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.ShowThread"/>
-<fullyQualifiedTypeName name="java.lang.Runnable"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.Sum"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.AdderThread"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.MessageSnedingThread"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.MessageSendingThread2"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.Prob01.Sum"/>
@@ -21,21 +14,16 @@
 <fullyQualifiedTypeName name="bitjava.day01_05.IHaveTwoNum"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.AcessThread"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.AccessThread"/>
-<fullyQualifiedTypeName name="java.awt.Graphics2D"/>
-<fullyQualifiedTypeName name="java.awt.Graphics"/>
 <fullyQualifiedTypeName name="jswing.GamePannel"/>
 <fullyQualifiedTypeName name="jswingspilt.gamePannel"/>
-<fullyQualifiedTypeName name="javax.swing.JPanel"/>
 <fullyQualifiedTypeName name="jswingspilt.drawsqure"/>
 <fullyQualifiedTypeName name="javax.swing.JFrame"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.NewsPaper"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.NewsReader"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.NewsWriter"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.ThreadB"/>
-<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="java.io.FileReader"/>
-<fullyQualifiedTypeName name="jswingspilt.GamePannel"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.PrintReaderStream"/>
 <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
@@ -51,13 +39,25 @@
 <fullyQualifiedTypeName name="java.net.ServerSocket"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.charEX.serverReceiver"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.net.Socket"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.charEX.ClientSender"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.charEX.ClientReceiver"/>
 <fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="java.awt.Graphics2D"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="jswingspilt.DrawSqure"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="jswingspilt.GamePannel"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="jswingspilt.MainPannel"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
 </qualifiedTypeNameHistroy>
