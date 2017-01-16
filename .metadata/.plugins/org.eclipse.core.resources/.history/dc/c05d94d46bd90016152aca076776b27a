@@ -1,0 +1,29 @@
+package bitjava.day01_13;
+
+import java.util.Scanner;
+
+public class Prob01
+{
+
+	public static void main(String[] args)
+	{
+		Scanner kb = new Scanner(System.in);
+		
+		String munja = kb.nextLine();
+		
+		System.out.print(munja);
+		System.out.println();
+		String[] spmunja = new String[]{} ;
+		
+		for (int i = 0; i < munja.length(); i++)
+		{
+			spmunja[i]=munja.substring(i+1); // 문자열 추출
+		}
+		
+		for (int i = 0; i < spmunja.length; i++)
+		{
+			System.out.println(spmunja[i]);
+		}
+	}
+
+}

@@ -1,0 +1,47 @@
+package bitjava.day01_13;
+
+import java.util.Scanner;
+
+public class AdditionalProb06
+{
+	public static String strInput;
+	public static String strOutput;
+
+	public static void main(String[] args)
+	{
+		Scanner kb = new Scanner(System.in);
+		strInput = kb.nextLine();
+		strOutput = strInput;
+
+		if (!isPaindrome(strInput))
+		{
+
+		}
+
+	}
+
+	public static boolean isPaindrome(String strArg)
+	{
+		boolean result = true;
+		String str = strArg;
+		while (str.length()>1)
+		{
+			
+			
+		}
+		
+		
+		
+		return result;
+
+	}
+
+	public static void append(int start)
+	{
+		for (int i = strInput.length() - start; i >= 0; i++)
+		{
+
+		}
+	}
+
+}

@@ -4,7 +4,6 @@
 <fullyQualifiedTypeName name="bitjava.day01_05.MessageSendingThread2"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.Prob01.Sum"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.Prob01.AdderThread"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.Increment"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.IncThread"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
@@ -52,12 +51,13 @@
 <fullyQualifiedTypeName name="java.awt.Graphics"/>
 <fullyQualifiedTypeName name="jswingspilt.GamePannel"/>
 <fullyQualifiedTypeName name="javax.swing.JPanel"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="jswingspilt.MainPannel"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
