@@ -1,0 +1,31 @@
+package bitjava.day01_16;
+
+public class Prob01
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+
+/*
+ * 문제 8
+ * 
+ * -- 1단계
+ * 입력 문자열 i am a java progammer
+ * 출력 5개
+ * 문자열 개수 출력 하는것
+ * 
+ * -- 2단계
+ * i am, a java programmer
+ * 띄어쓰기 중복처리 쉼표 마침표 처리
+ * 
+ * -- 3단계 출력 5개 . 역순 출력 까지
+ * i am, a java programmer.
+ * 
+ * 테트리스 구현 1단계 (awt)
+ * rotate() 메서드 완성
+ * 왼쪽으로 이동 오른쪽으로 이동 시 정확한 검사 로직 추가
+ */

@@ -1,0 +1,12 @@
+package bitjava.day01_16;
+// 문제 8 띄어쓰기 중복처리.. 치기 귀찮다 그냥 하자
+// 구래
+public class AdditionalProb08
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}

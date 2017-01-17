@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=euc-kr">
+<title>게시판 글쓰기 입력화면</title>
+</head>
+<body>
+<form action="/brain/bbs-post" method="post">
+
+이름 : <input type="text" name ="name"><br>
+제목 : <input type="text" name ="title"><br>
+<textarea cols="50" rows="5" name="content"></textarea><br>
+<input type="submit" value="save">
+<input type ="reset" value="cancel">
+</form>
+</body>
+</html>

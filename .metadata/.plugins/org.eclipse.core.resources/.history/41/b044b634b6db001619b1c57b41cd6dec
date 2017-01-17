@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=euc-kr">
+<!-- <meta charset="EUC-KR"> -->
+<title>add program</title>
+</head>
+<body>
+	<form action="/brain/adder">
+		 num1 : <input type="text" name="num1">
+		 num2 : <input type="text" name="num2">
+		 <input type="submit" value="sum">
+	</form>
+</body>
+</html>

@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="bitjava.day01_05.MessageSnedingThread"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.MessageSendingThread2"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.Prob01.Sum"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.Prob01.AdderThread"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.Increment"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.IncThread"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.Calculator"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.AddThread"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.MinThread"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.IHaveTwoNum"/>
-<fullyQualifiedTypeName name="bitjava.day01_05.AcessThread"/>
 <fullyQualifiedTypeName name="bitjava.day01_05.AccessThread"/>
 <fullyQualifiedTypeName name="jswing.GamePannel"/>
 <fullyQualifiedTypeName name="jswingspilt.gamePannel"/>
@@ -37,7 +25,6 @@
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.net.ServerSocket"/>
 <fullyQualifiedTypeName name="bitjava.day01_06.charEX.serverReceiver"/>
-<fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.net.Socket"/>
@@ -48,7 +35,6 @@
 <fullyQualifiedTypeName name="java.awt.Graphics2D"/>
 <fullyQualifiedTypeName name="java.awt.Rectangle"/>
 <fullyQualifiedTypeName name="jswingspilt.DrawSqure"/>
-<fullyQualifiedTypeName name="java.awt.Graphics"/>
 <fullyQualifiedTypeName name="jswingspilt.GamePannel"/>
 <fullyQualifiedTypeName name="javax.swing.JPanel"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -57,7 +43,21 @@
 <fullyQualifiedTypeName name="jswingspilt.MainPannel"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.awt.Frame"/>
+<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowListener"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
+<fullyQualifiedTypeName name="java.awt.Panel"/>
+<fullyQualifiedTypeName name="java.awt.GridLayout"/>
+<fullyQualifiedTypeName name="java.awt.Canvas"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.awt.Button"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="Additional.AwtTetrisController1.AwtCanvasTetris"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
 </qualifiedTypeNameHistroy>

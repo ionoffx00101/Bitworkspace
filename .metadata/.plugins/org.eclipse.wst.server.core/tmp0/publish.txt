@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jan 17 15:31:11 KST 2017
+org.eclipse.jst.jee.server\:bitweb2=C\:\\apache-tomcat-8.0.39\\wtpwebapps\\bitweb2
+org.eclipse.jst.jee.server\:brain=C\:\\apache-tomcat-8.0.39\\wtpwebapps\\brain

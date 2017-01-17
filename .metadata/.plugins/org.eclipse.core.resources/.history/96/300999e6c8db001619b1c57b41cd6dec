@@ -1,0 +1,40 @@
+package bitjava.day01_16;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+// 문제 8 띄어쓰기 중복처리.. 치기 귀찮다 그냥 하자
+// 구래
+public class AdditionalProb08
+{
+
+	public static void main(String[] args)
+	{
+		Scanner kb = new Scanner(System.in);
+		System.out.print("입력 : ");
+		String strInput = kb.nextLine();
+
+		ArrayList<String> arrayStr = new ArrayList<String>();
+
+		String s = "";
+		for (int i = 0; i < strInput.length(); i++)
+		{
+			char ch = strInput.charAt(i);
+			if (ch == ' ' || ch == ',' || ch == '.')
+			{
+				arrayStr.add(s);
+				s = "";
+			} else
+			{
+				s += ch;
+			}
+		}
+		System.out.println(arrayStr.size()+"개");
+		for (int i = 0; i < arrayStr.size(); i++)
+		{
+			System.out.println(arrayStr.get(i));
+		}
+		System.out.println();
+	}
+
+}

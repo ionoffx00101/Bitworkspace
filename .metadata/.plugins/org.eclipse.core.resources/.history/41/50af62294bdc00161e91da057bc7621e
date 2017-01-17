@@ -1,0 +1,17 @@
+package bitjava.day01_17;
+
+public class AdditionalProb09
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
+문제 9
+:-) 개수랑
+:-( 개수를 비교
+		
+		chatAt()
+		indexOf()

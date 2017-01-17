@@ -1,0 +1,39 @@
+package bitjava.day01_17;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class AdditionalProb09
+{
+
+	public static void main(String[] args)
+	{
+		/*Scanner kb = new Scanner(System.in);
+		System.out.print("입력 : ");
+		String strInput = kb.nextLine();*/
+		
+		
+		
+		ArrayList<String> arrayStr = new ArrayList<String>();
+		String s = "";
+		for(int i=0; i<=strInput.length()-1; i++) {
+			char ch = strInput.charAt(i);
+			if(ch==' ' || ch==',' || ch=='.') {
+				if(s.length()>0) {   // s에 문자열이 있는 상태였다면, arraylist에 add.
+					arrayStr.add(s);
+					s="";
+				}
+			}
+			else {
+				s += ch;
+			}
+		}
+	}
+
+}
+//문제 9
+//:-) 개수랑
+//:-( 개수를 비교
+//		
+//		chatAt()
+//		indexOf()
