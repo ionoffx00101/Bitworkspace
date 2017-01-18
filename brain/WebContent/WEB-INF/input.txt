@@ -1,0 +1,81 @@
+-- 아침 문제 1
+select e.ename,e.sal,d.dname from emp e,dept d where e.sal between 2500 and 5000 and e.deptno=d.deptno;
+
+-- 아침 문제 2
+select e.ename,e.sal,d.dname from emp e,dept d where e.deptno=d.deptno and e.job='MANAGER';
+
+-- 아침 문제 3
+select e.ename,e.hiredate from emp e,dept d where e.deptno=d.deptno and d.dname='ACCOUNTING';
+
+-- 아침 문제 4
+select e.ename,d.dname from emp e,dept d where e.deptno=d.deptno and e.comm is not null;
+
+-- 아침 문제 5
+select e.ename,e.sal from emp e,dept d where e.deptno=d.deptno and d.LOC='NEW YORK' order by e.ename;
+
+-- 아침 문제 6
+select e.ename,e.sal,d.loc from emp e,dept d where e.deptno=d.deptno and e.sal<=1500 order by e.sal desc;
+
+--------------------------------------------------------------------------------
+-- outer join
+select dname,ename from dept d,emp e where d.deptno=e.deptno(+);
+-- ANSI 표준 문법 
+-- left outer join 
+select d.dname,e.ename from emp e left outer join dept d on e.deptno=d.deptno;
+
+--------------------------------------------------------------------------------
+set TRANSACTION ISOLATION level SERIALIZABLE; --read committed
+
+select salary from s_emp where id in(1,2);
+
+update s_emp set salary=10 where id=2;
+update s_emp set salary=10 where id=1;
+
+rollback; -- 트랜잭션 끝
+
+select salary from s_emp where id in(1,2);
+
+--------------------------------------------------------------------------------
+-- 테이블 조건 건들기
+create table alter2(a Number,b char,c date);
+insert into alter2 values(10,'x',sysdate);
+insert into alter2 values(10,'y',sysdate);
+alter table alter2 add constraint alter2_a_pk PRIMARY KEY(a);
+-- 데이터 안 넣어서 그냥 변경된듯ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+select * from alter2 order by a;
+delete from alter2 where a=10 and b='y';
+
+
+alter table alter2 disable constraint alter2_a_pk;
+insert into alter2 values(10,'y',sysdate);
+insert into alter2 values(10,'y',sysdate);
+alter table alter2 enable constraint alter2_a_pk;
+-- 오류가 나는 이유 무결성 꺼놓고 똑같은 행 집어넣었서 무결성 그런거 없어졌는데 pk로 어떻게 만들어..
+
+delete from alter2 where a=10 and b='y';
+-- 2개 행이 삭제됨 2개니까
+alter table alter2 enable constraint alter2_a_pk;
+
+commit;
+--------------------------------------------------------------------------------
+rename alter2 to alter3;
+desc alter3;
+
+--------------------------------------------------------------------------------
+select count(*) from alter2;
+delete from alter2;
+select count(*) from alter2;
+rollback;
+select count(*) from alter2;
+
+truncate table alter2;
+select count(*) from alter2;
+rollback;
+select count(*) from alter2;
+--------------------------------------------------------------------------------
+select * from s_emp;
+--select comments from user_tap_comments where table_name='S_EMP';
+--comment on table s_emp is 'this table is fro employee information';
+-- select comments from user_tab_comments where table_name='S_EMP';
+
+-- select comments from user_tap_comments where table_name='ALTER3';
