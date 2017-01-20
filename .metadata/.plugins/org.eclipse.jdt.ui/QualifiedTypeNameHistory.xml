@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="bitjava.day01_05.AccessThread"/>
-<fullyQualifiedTypeName name="jswing.GamePannel"/>
 <fullyQualifiedTypeName name="jswingspilt.gamePannel"/>
 <fullyQualifiedTypeName name="jswingspilt.drawsqure"/>
 <fullyQualifiedTypeName name="javax.swing.JFrame"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="java.awt.Graphics"/>
 <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.nio.channels.SeekableByteChannel"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
 </qualifiedTypeNameHistroy>

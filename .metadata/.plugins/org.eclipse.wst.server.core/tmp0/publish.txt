@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Wed Jan 18 17:39:06 KST 2017
+#Fri Jan 20 17:07:03 KST 2017
+org.eclipse.jst.jee.server\:TempDice=C\:\\apache-tomcat-8.0.39\\webapps\\TempDice
 org.eclipse.jst.jee.server\:brain=C\:\\apache-tomcat-8.0.39\\webapps\\brain

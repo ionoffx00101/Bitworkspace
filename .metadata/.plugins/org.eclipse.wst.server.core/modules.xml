@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:brain" serverId="Tomcat v8.0 Server at 192.168.1.17"/>
+  <module moduleId="org.eclipse.jst.jee.server:TempDice" serverId="Tomcat v8.0 Server at 192.168.1.17"/>
   <module moduleId="org.eclipse.jst.jee.server:bitweb2" serverId="Tomcat v8.0 Server at 192.168.1.17"/>
   <module moduleId="org.eclipse.jst.jee.server:bitweb" serverId="Tomcat v8.0 Server at 192.168.1.17"/>
 </modules>
