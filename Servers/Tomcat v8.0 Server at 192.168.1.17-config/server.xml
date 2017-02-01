@@ -60,7 +60,7 @@
          APR (HTTP/AJP) Connector: /docs/apr.html
          Define a non-SSL/TLS HTTP/1.1 Connector on port 8080
     -->
-    <Connector URIEncoding="utf-8" connectionTimeout="20000" port="8183" protocol="HTTP/1.1" redirectPort="8443"/>
+    <Connector URIEncoding="UTF-8" connectionTimeout="20000" port="8183" protocol="HTTP/1.1" redirectPort="8443"/>
    <!--  URIEncoding="utf-8" 추가함 euc-kr -->
     
     <!-- A "Connector" using the shared thread pool-->
@@ -126,7 +126,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="brain" path="/brain" reloadable="false" source="org.eclipse.jst.jee.server:brain"/></Host>
+      <Context docBase="brain0123" path="/brain0123" reloadable="true" source="org.eclipse.jst.jee.server:brain0123"/><Context docBase="brain0124" path="/brain0124" reloadable="true" source="org.eclipse.jst.jee.server:brain0124"/><Context docBase="brain09" path="/brain09" reloadable="true" source="org.eclipse.jst.jee.server:brain09"/><Context docBase="brain12" path="/brain12" reloadable="true" source="org.eclipse.jst.jee.server:brain12"/><Context docBase="appD" path="/appD" reloadable="true" source="org.eclipse.jst.jee.server:appD"/><Context docBase="MemberEx" path="/MemberEx" reloadable="true" source="org.eclipse.jst.jee.server:MemberEx"/></Host>
     </Engine>
   </Service>
 </Server>
