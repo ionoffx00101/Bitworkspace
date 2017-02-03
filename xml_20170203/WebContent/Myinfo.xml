@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 나의 정보 -->
+<myinfo>
+	<name>황인영</name>
+	<age>29</age>
+	<phone>010 9983 2993</phone>
+	<address>서울 묵동</address>
+</myinfo>

@@ -10,11 +10,11 @@ public class PrintWriterStream
 	public static void main(String[] args) throws IOException
 	{
 		PrintWriter out = new PrintWriter(new FileWriter("Printf.txt"));
-		out.printf("¿À´ÃÀº %d/%d(%c) %s ¸¶Áö¸· ³¯", 1, 6, '±Ý', "java args");
+		//out.printf("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ %d/%d(%c) %s ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½", 1, 6, 'ï¿½ï¿½', "java args");
 
 		out.println();
 		
-		out.print("¼ö°í¿ä");
+		//out.print("ï¿½ï¿½ï¿½ï¿½ï¿½");
 		out.close();
 	}
 
