@@ -27,7 +27,7 @@ public class StudentDAO {
 		Class.forName("oracle.jdbc.driver.OracleDriver");
 		
 		// db 호출 하고 connection객체에 넣어둠
-		conn = DriverManager.getConnection("jdbc:oracle:thin:@192.168.1.17:1521:xe", "scott", "tiger");
+		conn = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","scott","tiger");
 		
 		// 실행할 쿼리문이 담긴 psmt객체를 만듬
 		psmt=conn.prepareStatement("select s.studno,s.name,s.userid,s.pw,d.deptno,d.dname,d.loc from tb_stu s,tb_dept d where s.deptno=d.deptno and s.userid=?"); 
@@ -96,7 +96,7 @@ public class StudentDAO {
 		//1.JDBC Driver를 로드한다
 		Class.forName("oracle.jdbc.driver.OracleDriver");
 		//2.DB에 접속하고 Connection 객체를 지역변수 conn에 대입한다. 
-		conn = DriverManager.getConnection("jdbc:oracle:thin:@192.168.1.17:1521:xe", "scott", "tiger");
+		conn = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","scott","tiger");
 		
 		//3.TB_STUDENT 테이블에 학생정보를 저장하는 쿼리를 실행하는
 		// PreparedStatement 객체를 생성해서 지역변수 psmt에 대입한다.

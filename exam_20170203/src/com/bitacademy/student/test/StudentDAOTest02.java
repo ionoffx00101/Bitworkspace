@@ -1,10 +1,5 @@
 package com.bitacademy.student.test;
 
-import static org.junit.Assert.*;
-
-import java.util.ArrayList;
-
-import org.junit.Test;
 
 import com.bitacademy.student.Student;
 import com.bitacademy.student.StudentDAO;

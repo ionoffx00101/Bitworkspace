@@ -108,6 +108,7 @@ public class StudentService extends HttpServlet {
 		String result = "<?xml version='1.0' encoding='UTF-8'?>";
 		result+="<deptList>";
 		for(int i=0;i<deptList.size();i++){
+			
 			// deptlist의 i번째 줄이 dept객체에 담아진다
 			Dept dept=deptList.get(i);
 			String deptno=dept.deptno;
