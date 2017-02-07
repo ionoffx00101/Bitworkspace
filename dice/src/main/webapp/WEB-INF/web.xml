@@ -16,6 +16,18 @@
   	<description></description>
   	<servlet-class>dice.DiceServlet</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>WeatherService</servlet-name>
+  	<display-name>WeatherService</display-name>
+  	<description></description>
+  	<servlet-class>weather.WeatherService</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>MainWeather</servlet-name>
+  	<display-name>MainWeather</display-name>
+  	<description></description>
+  	<servlet-class>weather.MainWeather</servlet-class>
+  </servlet>
   <servlet-mapping>
   	<servlet-name>diceServlet</servlet-name>
   	<url-pattern>/diceServlet</url-pattern>
@@ -23,5 +35,13 @@
   <servlet-mapping>
   	<servlet-name>DiceServlet</servlet-name>
   	<url-pattern>/DiceServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>WeatherService</servlet-name>
+  	<url-pattern>/WeatherService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>MainWeather</servlet-name>
+  	<url-pattern>/MainWeather</url-pattern>
   </servlet-mapping>
 </web-app>

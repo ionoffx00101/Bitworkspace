@@ -3,7 +3,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
 			            사람인에서는 다음과 같은 xml 데이터인 result의 내용은 다음과 같다.
-			            <job-search>
+			  <job-search>
 			  <jobs count="5" start="0" total="5">
 			    <job>   ---1
 			      <id>10671680</id>
