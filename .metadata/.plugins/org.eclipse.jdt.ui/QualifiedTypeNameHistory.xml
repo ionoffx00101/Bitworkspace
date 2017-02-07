@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.awt.Button"/>
-<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
-<fullyQualifiedTypeName name="Additional.AwtTetrisController1.AwtCanvasTetris"/>
-<fullyQualifiedTypeName name="java.awt.Graphics"/>
-<fullyQualifiedTypeName name="java.nio.channels.SeekableByteChannel"/>
-<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 <fullyQualifiedTypeName name="java.math.BigInteger"/>
@@ -28,7 +20,6 @@
 <fullyQualifiedTypeName name="myutil.MultiPart"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
-<fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.FileItem"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="org.apache.commons.fileupload.FileItem"/>
@@ -38,7 +29,6 @@
 <fullyQualifiedTypeName name="dice.ConnDAO"/>
 <fullyQualifiedTypeName name="dice.AbstractDAO"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
 <fullyQualifiedTypeName name="com.bitacademy.college.test.CollegeDAOTest01"/>
@@ -48,7 +38,6 @@
 <fullyQualifiedTypeName name="com.bitacademy.college.College"/>
 <fullyQualifiedTypeName name="com.bitacademy.dept.Dept"/>
 <fullyQualifiedTypeName name="com.bitacademy.student.StudentDAO"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="mvc.Beer"/>
 <fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
 <fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
@@ -60,4 +49,15 @@
 <fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="jpa_20170207.Member"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.bitacademy.good.Good"/>
+<fullyQualifiedTypeName name="com.bitacademy.good.GoodDAO"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 </qualifiedTypeNameHistroy>
