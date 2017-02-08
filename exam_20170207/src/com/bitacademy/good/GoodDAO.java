@@ -20,8 +20,10 @@ public class GoodDAO {
 
 		// DB연결해주는 객체생성
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("jpa");
+		
 		// CRUD해주는 매니저 객체생성
 		EntityManager em = emf.createEntityManager();
+		
 		// 커밋 롤백해주는 트랜잭션 객체 생성
 		EntityTransaction tx = em.getTransaction();
 

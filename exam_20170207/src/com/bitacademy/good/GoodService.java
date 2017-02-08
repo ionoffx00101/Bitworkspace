@@ -32,15 +32,18 @@ public class GoodService extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		//한글화
 		request.setCharacterEncoding("UTF-8");
 		
+		// 파라미터 중에 method값을 구함
 		String method=request.getParameter("method");
+		// 메소드 값에 따라 해당 메소드로 request,response객체와 함께 이동 시킴
 		try{
 			if("viewGoodList".equals(method)){
 				viewGoodList(request,response);
 			}else if("viewGood".equals(method)){
 				viewGood(request,response);
-			
 			}else{
 				viewGoodList(request,response);
 			}

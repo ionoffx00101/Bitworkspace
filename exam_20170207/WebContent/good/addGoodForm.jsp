@@ -10,13 +10,12 @@
 		<link rel="shortcut icon" href="../image/icon.png">
 		<link rel="apple-touch-icon" href="../image/icon.png"> 
 		
-		<link href="/exam_20170207/framework/jquery.mobile-1.0.css" rel="stylesheet" type="text/css" />
+<!-- 		<link href="/exam_20170207/framework/jquery.mobile-1.0.css" rel="stylesheet" type="text/css" />
 		<script src="/exam_20170207/framework/jquery-1.6.4.js"></script>
-				
-		
-		
-		<script src="/exam_20170207/framework/jquery.mobile-1.0.js"></script>
-
+		<script src="/exam_20170207/framework/jquery.mobile-1.0.js"></script> -->
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 		
 	</head>
 	<body> 
