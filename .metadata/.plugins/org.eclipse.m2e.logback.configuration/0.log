@@ -4010,3 +4010,1264 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2017-02-08 18:17:14,045 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-02-08 18:17:14,045 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-02-08 18:17:14,045 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 09:11:32,835 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 09:11:33,772 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,772 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 09:11:33,772 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,788 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 09:11:33,850 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,850 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 09:11:33,850 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,866 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 09:11:33,913 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,913 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 09:11:33,913 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,929 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 09:11:33,975 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,975 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 09:11:33,975 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:33,975 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 09:11:34,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 09:11:34,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 09:11:34,319 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 09:11:34,319 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 09:11:35,444 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:35,460 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 09:11:35,460 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:11:35,460 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 09:26:13,444 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:26:13,474 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 09:26:13,498 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:26:13,516 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 09:26:15,713 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:26:15,718 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 09:26:15,719 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:26:15,726 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 09:36:00,490 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:36:00,490 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 09:36:00,490 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:36:00,506 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 09:36:08,037 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:36:08,037 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 09:36:08,037 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 09:36:08,053 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 10:04:00,208 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jpa01:jpa01:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\jpa_20170209\pom.xml.
+2017-02-09 10:04:00,956 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:04:00,956 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:04:00,956 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:04:00,972 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 10:04:02,278 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:04:02,294 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:04:02,294 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:04:02,294 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 10:04:10,491 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jpa01:jpa01:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\jpa_20170209\pom.xml.
+2017-02-09 10:04:10,835 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:04:10,835 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:04:10,835 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:04:10,851 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 10:04:10,851 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jpa_20170209
+2017-02-09 10:04:10,851 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jpa_20170209
+2017-02-09 10:04:10,851 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:11:46,321 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:11:46,321 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:11:46,321 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:11:46,321 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 10:21:57,361 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:21:57,361 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:21:57,376 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:21:57,376 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 10:47:00,405 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:47:00,405 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:47:00,405 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:47:00,421 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 10:47:21,161 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:47:21,161 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 10:47:21,161 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 10:47:21,176 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:11:21,538 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:11:21,538 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:11:21,554 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:11:21,554 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:13:10,637 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:13:10,652 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:13:10,652 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:13:10,668 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:15:01,559 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:01,574 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:15:01,574 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:01,590 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:15:05,554 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:05,554 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:15:05,554 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:05,570 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:15:20,377 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:20,377 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:15:20,393 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:20,393 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:15:33,253 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:33,253 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:15:33,268 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:33,268 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:15:44,538 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:44,538 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:15:44,538 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:15:44,554 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:17:33,665 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:17:33,665 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:17:33,665 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:17:33,681 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:18:30,989 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:18:30,989 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:18:30,989 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:18:31,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:19:58,917 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:19:58,933 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:19:58,933 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:19:58,933 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:20:05,664 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:20:05,664 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:20:05,664 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:20:05,680 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:30:52,761 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:30:52,761 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:30:52,777 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:30:52,777 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:31:13,338 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:31:13,338 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:31:13,338 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:31:13,354 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:31:26,295 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:31:26,295 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:31:26,295 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:31:26,311 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:33:42,611 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:33:42,611 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:33:42,611 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:33:42,626 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:38:31,713 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:38:31,713 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:38:31,713 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:38:31,729 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:38:45,946 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:38:45,946 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:38:45,946 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:38:45,962 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:38:52,619 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:38:52,619 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:38:52,619 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:38:52,634 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 13:54:41,478 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jpa01:jpa01:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\exam_20170209\pom.xml.
+2017-02-09 13:54:41,706 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:54:41,721 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 13:54:41,721 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:54:41,737 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 13:54:42,919 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:54:42,950 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 13:54:42,950 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:54:42,966 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 13:55:00,063 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:55:00,079 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 13:55:00,094 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:55:00,132 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 13:55:05,100 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:55:05,100 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 13:55:05,100 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 13:55:05,116 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 14:01:22,109 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:01:22,109 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:01:22,124 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:01:22,124 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:01:23,164 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:01:23,164 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:01:23,164 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:01:23,179 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:02:03,524 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:02:03,524 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:02:03,539 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:02:03,539 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:02:11,017 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:02:11,017 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:02:11,033 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:02:11,033 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:09:50,444 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jpa01:jpa01:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\exam_20170209\pom.xml.
+2017-02-09 14:09:51,147 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:09:51,147 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:09:51,147 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:09:51,162 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:09:51,475 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:09:51,491 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:09:51,491 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:09:51,491 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:10:17,539 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:10:17,554 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:10:17,554 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:10:17,554 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:12:21,224 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:12:21,224 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:12:21,224 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:12:21,224 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:12:22,318 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:12:22,318 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:12:22,318 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:12:22,318 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:26:17,206 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:26:17,206 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:26:17,206 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:26:17,222 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:33:31,170 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:33:31,186 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:33:31,186 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:33:31,186 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:34:02,734 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:34:02,734 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:34:02,750 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:34:02,750 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:34:40,561 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:34:40,561 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:34:40,561 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:34:40,561 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:37:20,649 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:37:20,649 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:37:20,649 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:37:20,664 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:37:47,547 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:37:47,552 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:37:47,553 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:37:47,557 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:39:07,426 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:39:07,426 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:39:07,426 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:39:07,442 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:48:06,306 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:48:06,306 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:48:06,306 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:48:06,321 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:49:15,435 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:49:15,435 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:49:15,451 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:49:15,451 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:49:47,550 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:49:47,550 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:49:47,550 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:49:47,550 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:50:14,494 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:50:14,494 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:50:14,494 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:50:14,509 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:50:33,794 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:50:33,794 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:50:33,794 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:50:33,794 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:50:36,942 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:50:36,942 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:50:36,958 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:50:36,958 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:51:00,693 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:51:00,693 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:51:00,693 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:51:00,693 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:52:00,788 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:52:00,788 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:52:00,788 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:52:00,804 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:52:25,230 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:52:25,230 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:52:25,230 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:52:25,230 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:53:20,104 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:53:20,104 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:53:20,104 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:53:20,120 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:53:41,102 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:53:41,102 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:53:41,102 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:53:41,102 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:53:42,215 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:53:42,215 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:53:42,215 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:53:42,230 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:54:58,209 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:54:58,209 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:54:58,209 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:54:58,209 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:55:39,199 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:55:39,215 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:55:39,215 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:55:39,215 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 14:59:47,685 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:59:47,685 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 14:59:47,685 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 14:59:47,701 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:04:47,507 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:04:47,522 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:04:47,522 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:04:47,522 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:05:10,238 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:05:10,238 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:05:10,238 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:05:10,253 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:09:04,989 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:09:04,989 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:09:05,005 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:09:05,005 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:10:51,213 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:10:51,213 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:10:51,213 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:10:51,213 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:11:20,583 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:11:20,583 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:11:20,599 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:11:20,599 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:11:45,737 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:11:45,737 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:11:45,737 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:11:45,737 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:12:20,575 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:12:20,575 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:12:20,591 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:12:20,591 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:13:23,034 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:13:23,034 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:13:23,034 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:13:23,034 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:15:06,424 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:15:06,424 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:15:06,424 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:15:06,440 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:17:52,682 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:17:52,682 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:17:52,682 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:17:52,682 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:18:06,599 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:18:06,599 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:18:06,614 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:18:06,614 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:19:35,964 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:19:35,980 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:19:35,980 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:19:35,980 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:48:02,281 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 15:48:03,386 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,386 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 15:48:03,386 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,386 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 15:48:03,464 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,464 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 15:48:03,464 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,464 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 15:48:03,558 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,558 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:48:03,558 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,558 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 15:48:03,620 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,620 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 15:48:03,620 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,636 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 15:48:03,683 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,683 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 15:48:03,683 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 15:48:03,745 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,761 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 15:48:03,761 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:03,761 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 15:48:04,981 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:04,997 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 15:48:04,997 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 15:48:05,013 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 16:46:35,589 [Worker-12] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 16:46:35,598 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 16:46:35,602 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 16:46:35,631 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 16:46:35,637 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 16:59:04,188 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\BIT\workspace\zype\pom.xml
+2017-02-09 16:59:04,231 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 16:59:04,572 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 16:59:04,949 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 16:59:04,970 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/main/java
+2017-02-09 16:59:04,974 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zype/src/main/resources
+2017-02-09 16:59:04,977 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/test/java
+2017-02-09 16:59:06,075 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-02-09 16:59:06,377 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 16:59:06,384 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 16:59:06,395 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 16:59:06,401 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 16:59:06,409 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 16:59:41,559 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 16:59:41,565 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 16:59:41,576 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 16:59:41,579 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 16:59:41,584 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 16:59:47,862 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 16:59:47,884 [Worker-11] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'dependencies' (position: START_TAG seen ...</build>\r\n  \r\n  <dependencies>... @22:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'dependencies' (position: START_TAG seen ...</build>\r\n  \r\n  <dependencies>... @22:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2227) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2017-02-09 17:01:24,598 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:24,848 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:01:25,192 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.jahia.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.pom
+2017-02-09 17:01:25,474 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.jahia.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.pom
+2017-02-09 17:01:26,005 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.pom
+2017-02-09 17:01:26,161 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.pom
+2017-02-09 17:01:26,224 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.pom
+2017-02-09 17:01:26,364 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.pom
+2017-02-09 17:01:26,833 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.jahia.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar
+2017-02-09 17:01:26,974 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar
+2017-02-09 17:01:26,989 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.jahia.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar
+2017-02-09 17:01:27,130 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar
+2017-02-09 17:01:28,352 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar
+2017-02-09 17:01:28,352 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.12/lombok-1.16.12.jar
+2017-02-09 17:01:28,695 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:28,711 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:28,711 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:01:28,711 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:28,711 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:01:28,711 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:01:28,711 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:01:28,727 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:29,821 [Worker-13] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:29,821 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:29,821 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:01:29,821 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:29,836 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:01:31,853 [Worker-16] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:32,071 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:01:32,306 [Worker-16] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:32,306 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:32,321 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:01:32,321 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:32,321 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:01:32,337 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:01:32,337 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:01:32,337 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:58,622 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:58,794 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:01:59,060 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:01:59,060 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:59,060 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:01:59,075 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:01:59,075 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:01:59,075 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:01:59,075 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:01:59,075 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:00,247 [Worker-13] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:02:00,247 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:00,247 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:02:00,263 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:00,263 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:02:53,821 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:02:54,008 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:02:54,274 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:02:54,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:55,422 [Worker-19] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:02:55,422 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:55,422 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:02:55,422 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:02:55,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:03:04,457 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:03:04,676 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:03:04,911 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:03:04,926 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:03:04,926 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:03:04,942 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:03:04,942 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:03:04,942 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:03:04,942 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:03:04,942 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:03:06,050 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:03:06,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:03:06,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:03:06,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:03:06,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:00,633 [Worker-19] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:00,837 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:04:01,090 [Worker-19] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:01,090 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:01,090 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:04:01,106 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:01,106 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:01,106 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:04:01,106 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:04:01,106 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:02,208 [Worker-15] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:02,224 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:02,224 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:04:02,224 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:02,224 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:05,128 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:05,299 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:04:05,548 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:05,564 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:05,564 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:04:05,564 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:05,564 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:05,564 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:04:05,564 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:04:05,580 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:22,674 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:22,824 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:04:23,087 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:04:23,087 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:24,226 [Worker-17] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:24,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:24,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:04:24,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:24,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:26,328 [Worker-17] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:26,484 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:04:26,767 [Worker-17] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:04:26,767 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:06:15,563 [Worker-19] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:06:15,579 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:06:15,579 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:06:15,579 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:06:15,595 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:06:21,458 [Worker-17] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:06:21,458 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:06:21,474 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:06:21,474 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:06:21,474 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:07:27,833 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:07:27,833 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:07:27,849 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:07:27,849 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:07:27,849 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:09:53,946 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:09:53,954 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:09:53,957 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:09:53,960 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:09:53,960 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:10:08,970 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-09 17:10:08,979 [Worker-16] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:10:09,174 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:10:09,493 [Worker-16] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:10:09,510 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/main/java
+2017-02-09 17:10:09,513 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zype/src/main/resources
+2017-02-09 17:10:09,526 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/test/java
+2017-02-09 17:10:10,123 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zype
+2017-02-09 17:10:10,164 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-09 17:10:11,839 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:10:11,848 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:10:11,852 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:10:11,857 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:10:11,857 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:10:58,152 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:10:58,158 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:10:58,159 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:10:58,159 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:10:58,164 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:11:28,974 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:11:28,983 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:11:28,986 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:11:28,989 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:11:28,989 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:14:34,241 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:14:34,440 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:14:34,814 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:14:34,823 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:14:34,826 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:14:34,827 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:14:34,848 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:14:34,849 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:14:34,849 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:14:34,854 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:14:35,992 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:14:36,011 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:14:36,011 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:14:36,012 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:14:36,012 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:19:40,465 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-09 17:19:40,465 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:19:40,641 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:19:40,938 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:19:40,938 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/main/java
+2017-02-09 17:19:40,938 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zype/src/main/resources
+2017-02-09 17:19:40,938 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/test/java
+2017-02-09 17:19:41,876 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zype
+2017-02-09 17:19:41,876 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-09 17:19:42,094 [Worker-14] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:19:42,094 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:19:42,110 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:19:42,110 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:19:42,110 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:20:07,985 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:20:07,985 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:20:08,000 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:20:08,000 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:20:08,000 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:20:37,669 [Worker-2] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:20:37,684 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:20:37,684 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:20:37,684 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:20:37,684 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:20:42,092 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:20:42,092 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:20:42,092 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:20:42,092 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:20:42,092 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:21:37,153 [Worker-12] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:21:37,153 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:21:37,153 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:21:37,153 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:21:37,169 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:21:40,935 [Worker-11] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:21:40,935 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:21:40,935 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:21:40,950 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:21:40,950 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:22:25,560 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:22:25,576 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:22:25,576 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:22:25,576 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:22:25,576 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:22:39,420 [Worker-18] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:22:39,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:22:39,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:22:39,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:22:39,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:26:11,567 [Worker-21] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-02-09 17:26:11,567 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:26:11,567 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:26:11,583 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:26:11,583 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:27:03,486 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:27:03,798 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:03,798 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:27:03,798 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:03,798 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:27:03,861 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:03,876 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:27:03,876 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:03,892 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:27:03,970 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:03,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:27:03,970 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:03,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:27:04,017 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:04,033 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:27:04,033 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:04,033 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:27:04,095 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:04,095 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:27:04,095 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:04,111 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:27:04,158 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:04,158 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:27:04,158 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:27:04,173 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:27:04,376 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:27:04,376 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:27:04,376 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:27:04,376 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:27:51,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:27:51,611 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:27:51,614 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:27:51,619 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:28:01,013 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:28:01,013 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:28:01,014 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:28:01,018 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:28:35,210 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:28:35,214 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:28:35,219 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:28:35,223 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:28:42,779 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-09 17:28:43,213 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:28:43,690 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/main/java
+2017-02-09 17:28:43,694 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zype/src/main/resources
+2017-02-09 17:28:43,697 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/test/java
+2017-02-09 17:28:44,428 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zype
+2017-02-09 17:28:44,433 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-09 17:28:44,766 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:28:44,767 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:28:44,767 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:28:44,768 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:30:50,836 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:30:50,836 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:30:50,836 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:30:50,836 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:31:04,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:31:04,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:31:04,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:31:04,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:36:21,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:36:21,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:36:21,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:36:21,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:37:00,300 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:37:00,300 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:37:00,300 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:37:00,300 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:37:37,323 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:38:58,651 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:38:58,651 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:38:58,651 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:38:58,667 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:39:16,503 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:39:16,785 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:16,800 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:39:16,800 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:16,800 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:39:16,863 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:16,878 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:39:16,878 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:16,878 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:39:16,925 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:16,941 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:39:16,941 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:16,941 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:39:17,003 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:17,003 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:39:17,003 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:17,019 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:39:17,066 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:17,066 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:39:17,066 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:17,081 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:39:17,140 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:17,145 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:39:17,146 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:17,154 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:39:17,360 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:39:17,360 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:39:17,360 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:39:17,360 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:39:20,345 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:39:20,376 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for exam_20170207
+2017-02-09 17:39:20,454 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for exam_20170208
+2017-02-09 17:39:20,501 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for exam_20170209
+2017-02-09 17:39:20,548 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa_20170207
+2017-02-09 17:39:20,579 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa_20170208
+2017-02-09 17:39:20,611 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa_20170209
+2017-02-09 17:39:20,720 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zype
+2017-02-09 17:39:34,113 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:39:34,316 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:34,316 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:39:34,332 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:34,347 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:39:34,910 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:34,925 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:39:34,925 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:34,925 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:39:35,097 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,113 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:39:35,113 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,113 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:39:35,316 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,316 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:39:35,332 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,332 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:39:35,504 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,504 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:39:35,519 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,519 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:39:35,691 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:39:35,691 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,707 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:39:35,847 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:39:35,863 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,863 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:39:35,894 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,894 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:39:35,910 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:35,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:39:40,748 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,748 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:39:40,763 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,763 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:39:40,794 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:39:40,794 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:39:40,826 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,826 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:39:40,826 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,826 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:39:40,857 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,857 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:39:40,857 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,873 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:39:40,888 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,888 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:39:40,888 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:39:40,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:39:42,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:39:42,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:39:42,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:39:42,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:40:03,978 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:40:04,322 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,338 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:40:04,338 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,338 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:40:04,400 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,400 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:40:04,400 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,416 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:40:04,463 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,463 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:40:04,479 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,479 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:40:04,525 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,525 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:40:04,525 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,541 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:40:04,588 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,588 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:40:04,588 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,604 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:40:04,650 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,650 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:40:04,650 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:40:04,666 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:40:04,870 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:40:04,886 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:40:04,886 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:40:04,886 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:45:22,343 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:45:22,358 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:45:22,358 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:45:22,358 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:47:13,891 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:47:14,157 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,172 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:47:14,172 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,172 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:47:14,235 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,235 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:47:14,235 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,250 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:47:14,297 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,297 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:47:14,297 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,313 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:47:14,360 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,375 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:47:14,375 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,375 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:47:14,422 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:47:14,485 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:47:14,563 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,563 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:47:14,563 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:47:14,610 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:47:14,782 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:14,782 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:47:14,782 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:14,782 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:47:23,512 [Worker-0] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...<!-- \uc2a4\ud504\ub9c1 \ub05d -->\r\n\r\n\t<!-- \t<!-- ... @68:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...<!-- \uc2a4\ud504\ub9c1 \ub05d -->\r\n\r\n\t<!-- \t<!-- ... @68:13) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2392) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1215) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.22.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2017-02-09 17:47:24,853 [Worker-9] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...<!-- \uc2a4\ud504\ub9c1 \ub05d -->\r\n\r\n\t<!-- \t<!-- ... @68:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...<!-- \uc2a4\ud504\ub9c1 \ub05d -->\r\n\r\n\t<!-- \t<!-- ... @68:13) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2392) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1215) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.22.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2017-02-09 17:47:26,072 [Worker-0] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...<!-- \uc2a4\ud504\ub9c1 \ub05d -->\r\n\r\n\t<!-- \t<!-- ... @68:13) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: in comment after two dashes (--) next character must be > not   (position: END_TAG seen ...<!-- \uc2a4\ud504\ub9c1 \ub05d -->\r\n\r\n\t<!-- \t<!-- ... @68:13) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseComment(MXParser.java:2392) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1215) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.22.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.22.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2017-02-09 17:47:31,433 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:47:31,933 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:31,933 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:47:31,933 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:31,948 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:47:31,948 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:47:31,948 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:47:31,948 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:33,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:33,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:47:33,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:33,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:47:37,168 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:47:37,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:37,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:47:37,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:37,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:47:37,503 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zype
+2017-02-09 17:47:37,519 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zype
+2017-02-09 17:47:37,519 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:50,993 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-09 17:47:51,181 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:zype:0.0.1-SNAPSHOT @ C:\Users\BIT\workspace\zype\pom.xml.
+2017-02-09 17:47:51,493 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/main/java
+2017-02-09 17:47:51,493 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zype/src/main/resources
+2017-02-09 17:47:51,509 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zype/src/test/java
+2017-02-09 17:47:52,119 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zype
+2017-02-09 17:47:52,134 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-09 17:47:52,353 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:52,369 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:47:52,369 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:47:52,400 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:48:02,101 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:48:02,132 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for exam_20170207
+2017-02-09 17:48:02,179 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for exam_20170208
+2017-02-09 17:48:02,226 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for exam_20170209
+2017-02-09 17:48:02,257 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa_20170207
+2017-02-09 17:48:02,289 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa_20170208
+2017-02-09 17:48:02,320 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa_20170209
+2017-02-09 17:48:02,382 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zype
+2017-02-09 17:48:11,053 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:48:11,475 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:11,491 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:48:11,491 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:11,507 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:48:11,944 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:11,960 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:48:11,960 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:11,960 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:48:12,100 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,116 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:48:12,116 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,132 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:48:12,335 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:48:12,350 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,350 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:48:12,444 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,444 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:48:12,444 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,444 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:48:12,564 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,569 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:48:12,571 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,576 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:48:12,641 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,657 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:48:12,657 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,657 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:48:12,720 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,735 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:48:12,735 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:12,735 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:48:15,314 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-02-09 17:48:15,329 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,329 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\main\resources
+2017-02-09 17:48:15,329 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,329 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170207\src\test\resources
+2017-02-09 17:48:15,361 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,361 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\main\resources
+2017-02-09 17:48:15,361 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,376 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170208\src\test\resources
+2017-02-09 17:48:15,392 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\main\resources
+2017-02-09 17:48:15,407 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\exam_20170209\src\test\resources
+2017-02-09 17:48:15,439 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,439 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\main\resources
+2017-02-09 17:48:15,439 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,439 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170207\src\test\resources
+2017-02-09 17:48:15,470 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,470 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\main\resources
+2017-02-09 17:48:15,470 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,486 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170208\src\test\resources
+2017-02-09 17:48:15,501 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,517 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\main\resources
+2017-02-09 17:48:15,517 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-09 17:48:15,517 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\jpa_20170209\src\test\resources
+2017-02-09 17:48:16,611 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:48:16,611 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:48:16,611 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:48:16,611 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:48:52,407 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:48:52,407 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:48:52,407 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:48:52,407 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:49:27,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:49:27,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:49:27,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:49:27,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:50:27,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:50:27,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:50:27,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:50:27,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:50:30,583 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:50:30,583 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:50:30,583 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:50:30,583 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:50:47,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:50:47,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:50:47,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:50:47,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:51:29,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:51:29,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:51:29,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:51:29,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:52:14,574 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:52:14,574 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:52:14,574 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:52:14,574 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:53:44,755 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:53:44,755 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:53:44,755 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:53:44,755 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:56:58,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:56:58,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:56:58,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:56:58,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:57:26,486 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:26,501 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:57:26,501 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:26,501 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:57:38,099 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:38,099 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:57:38,099 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:38,114 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:57:42,584 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:42,584 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:57:42,584 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:42,599 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:57:53,335 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:53,335 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:57:53,335 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:57:53,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:58:04,958 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:58:04,958 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:58:04,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:58:04,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:58:14,056 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:58:14,056 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:58:14,056 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:58:14,056 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 17:59:19,783 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:59:19,814 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 17:59:19,814 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 17:59:19,830 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:00:05,409 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:05,409 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:00:05,409 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:05,409 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:00:16,775 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:16,775 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:00:16,775 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:16,775 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:00:35,245 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:35,245 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:00:35,245 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:35,260 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:00:44,244 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:44,244 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:00:44,244 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:00:44,260 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:01:22,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:01:22,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:01:22,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:01:22,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:01:33,883 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:01:33,898 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:01:33,898 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:01:33,898 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:02:31,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:31,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:02:31,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:31,286 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:02:38,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:38,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:02:38,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:38,730 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:02:48,187 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:48,187 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:02:48,187 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:48,203 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:02:51,907 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:51,907 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:02:51,907 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:02:51,922 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:03:03,610 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:03:03,610 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:03:03,610 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:03:03,610 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:03:15,858 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:03:15,858 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:03:15,858 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:03:15,874 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:03:51,986 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:03:51,986 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:03:51,986 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:03:51,986 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:04:03,990 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:04:03,990 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:04:03,990 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:04:04,006 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:11:42,283 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:11:42,283 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:11:42,283 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:11:42,283 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:11:44,385 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:11:44,385 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:11:44,385 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:11:44,385 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources
+2017-02-09 18:11:56,523 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:11:56,523 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-09 18:11:56,523 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-09 18:11:56,523 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BIT\workspace\zype\src\test\resources

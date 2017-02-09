@@ -15,9 +15,7 @@
   		<td width="200">번호</td>
   		<td with="300">이름</td>
   	</tr>	
-  <c:forEach  items="${professorList}"
-     var="prof"
-     varStatus="index">
+  <c:forEach  items="${professorList}" var="prof" varStatus="index">
     <tr>
     	<td>
     	 	${index.count}

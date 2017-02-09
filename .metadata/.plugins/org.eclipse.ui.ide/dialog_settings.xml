@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="CleanDialogSettings">
 		<item value="500" key="DIALOG_WIDTH"/>
-		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
 		<item value="378" key="DIALOG_HEIGHT"/>
 		<item value="710" key="DIALOG_X_ORIGIN"/>
 		<item value="268" key="DIALOG_Y_ORIGIN"/>
@@ -12,11 +12,11 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="\\192.168.1.21\실습문제\2017-02-09"/>
 			<item value="\\192.168.1.21\실습문제\2017-02-08"/>
 			<item value="C:\Users\BIT\Documents\GitHub"/>
 			<item value="\\192.168.1.2\실습문제\2017-02-07"/>
 			<item value="\\192.168.1.2\수업자료\기타"/>
-			<item value="\\192.168.1.2\실습문제\2017-02-06"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
