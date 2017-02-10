@@ -94,11 +94,11 @@ public class ProfessorService extends HttpServlet {
 		professor.position = position;
 		professor.sal = Long.parseLong(sal); // String > Long으로 변환시켜줘야한다
 		professor.comm = comm;
-		
+
 		SimpleDateFormat transFormat = new SimpleDateFormat("yyyy-MM-dd");
 		Date transhiredate = transFormat.parse(hiredate); // String > java.sql.Date으로 변환시켜줘야한다
 		professor.hiredate = new java.sql.Date(transhiredate.getTime());
-		
+
 		professor.dept = dept;
 
 		// 수정메소드를 호출해서 모든 정보를 넣은 교수객체를 넣어주자.
@@ -108,7 +108,7 @@ public class ProfessorService extends HttpServlet {
 		return "ProfessorService?method=viewProfessor&profno=" + profno;
 
 	}
- 
+
 	private String addProfessorForm(HttpServletRequest request, HttpServletResponse response) throws Exception {
 
 		// dept리스트 가져오기
@@ -149,25 +149,18 @@ public class ProfessorService extends HttpServlet {
 		SimpleDateFormat transFormat = new SimpleDateFormat("yyyy-MM-dd");
 		Date transhiredate = transFormat.parse(hiredate); // String > java.sql.Date으로 변환시켜줘야한다
 		professor.hiredate = new java.sql.Date(transhiredate.getTime());
-		
+
 		professor.dept = dept;
-		
+
 		// 데이터 추가 메소드를 호출해서 모든 정보를 넣은 교수객체를 넣어주자.
 		ProfessorDAO.insertProfessor(professor);
-		
+
 		return "ProfessorService?method=viewProfessor&profno=" + profno;
-		
+
 	}
 
 	private String removeProfessor(HttpServletRequest request, HttpServletResponse response) throws Exception {
-		//1. 교수번호 리턴받아서 String변수에 저장
-		// request.getParameter("profno")
-		//2.ProfessorDAO.deleteProfessor(Long.parseLong(profno))  호출
-		//3.전체 교수 조회 화면으로 이동
-		//   RequestDispatcher rd=request.getRequestDispatcher(
-		//			"ProfessorService?method=viewProfessorList");
-		// 		rd.forward(request,response);
-		
+
 		// 리퀘스트에 넘어오는 교수번호 받아오기
 		Long profno = Long.parseLong(request.getParameter("profno"));
 		// 해당 교수 번호랑 일치하는 데이터를 삭제하는 메소드 삭제
@@ -178,9 +171,9 @@ public class ProfessorService extends HttpServlet {
 
 	//전체 교수 조회 
 	public String viewProfessorList(HttpServletRequest request, HttpServletResponse response) throws Exception {
-	
+
 		List<Professor> ProfessorList = ProfessorDAO.selectProfessorList();
-		
+
 		request.setAttribute("PROFESSOR_LIST", ProfessorList);
 
 		return "/professor/viewProfessorList.jsp";
@@ -188,33 +181,29 @@ public class ProfessorService extends HttpServlet {
 
 	//교수1명조회
 	public String viewProfessor(HttpServletRequest request, HttpServletResponse response) throws Exception {
-		
+
 		String profno = request.getParameter("profno");
-	
+
 		Professor professor = ProfessorDAO.selectProfessor(Long.parseLong(profno));
-		
+
 		request.setAttribute("PROFESSOR", professor);
 
 		return "/professor/viewProfessor.jsp";
 	}
 
 	public String editProfessorForm(HttpServletRequest request, HttpServletResponse response) throws Exception {
-		
+
 		String profno = request.getParameter("profno");
-		
+
+		// professor 정보 가져오기
 		Professor Professor = ProfessorDAO.selectProfessor(Long.parseLong(profno));
-		
+
 		request.setAttribute("PROFESSOR", Professor);
-		//4.	DepartmentDAO.selectDepartmentList()호출 해서 전체 학과 리스트 조회해서 List타입 변수에 저장
+		
+		// deptList 받아오기
 		List<Dept> DeptList = DeptDAO.selectDeptList();
-		//5.	4의 전체 학과리스트를 request에 저장
-		//      request.setAttribute("JSP에서 사용할 List의 이름",4의 List 객체);
+
 		request.setAttribute("DEPT_LIST", DeptList);
-		//6.	/professor/editProfessorForm.jsp로 페이지 이동
-		//  RequestDispatcher rd=request.getRequestDispatcher("/professor/editProfessorForm.jsp");
-		//  rd.forward(request,response);
-		/* RequestDispatcher rd = request.getRequestDispatcher("/professor/editProfessorForm.jsp");
-		 * rd.forward(request, response); */
 
 		return "/professor/editProfessorForm.jsp";
 

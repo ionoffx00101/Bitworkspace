@@ -8,6 +8,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.springframework.web.bind.annotation.RequestMapping;
+
 import service.BoardService;
 
 /**
@@ -24,6 +26,7 @@ public class ZypeServlet extends HttpServlet {
 		doPost(request, response);
 	}
 
+	@RequestMapping()
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// 리퀘스트 한글화
 		request.setCharacterEncoding("UTF-8");
