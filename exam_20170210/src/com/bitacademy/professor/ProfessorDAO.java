@@ -68,6 +68,7 @@ public class ProfessorDAO {
 		//5.4의 쿼리 실행
         //query.executeUpdate();
 		Query query = em.createNativeQuery("Delete from TB_PROFESSOR where profno="+profno);
+		// 쿼리 쿼리변수이름 = entity매니저.만든다현지어쿼리("삭제하는 쿼리문 oracle에서 쓰이는 거랑 똑같이 쓴다");
 		
 		query.executeUpdate();
       }

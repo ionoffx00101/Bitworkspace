@@ -126,7 +126,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jpa_20170210" path="/jpa_20170210" reloadable="true" source="org.eclipse.jst.jee.server:jpa_20170210"/><Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\exam_20170210" path="/exam_20170210" reloadable="true" source="org.eclipse.jst.jee.server:exam_20170210"/></Host>
+      <Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jpa_20170210" path="/jpa_20170210" reloadable="true" source="org.eclipse.jst.jee.server:jpa_20170210"/><Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\exam_20170210" path="/exam_20170210" reloadable="true" source="org.eclipse.jst.jee.server:exam_20170210"/><Context docBase="C:\Users\BIT\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jpa_20170213" path="/jpa_20170213" reloadable="true" source="org.eclipse.jst.jee.server:jpa_20170213"/></Host>
     </Engine>
   </Service>
 </Server>

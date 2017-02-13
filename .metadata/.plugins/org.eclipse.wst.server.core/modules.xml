@@ -20,5 +20,6 @@
   <module moduleId="org.eclipse.jst.j2ee.server:zyde" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:xml_20170206" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:exam_20170209" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:jpa_20170213" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:jpa_20170210" serverId="Tomcat v8.0 Server at localhost"/>
 </modules>

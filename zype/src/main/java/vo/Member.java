@@ -2,9 +2,9 @@ package vo;
 
 public class Member {
 
-	int member_num;
-	String member_id;
-	String member_pw;
+	private int member_num;
+	private String member_id;
+	private String member_pw;
 	
 	public int getMember_num() {
 		return member_num;

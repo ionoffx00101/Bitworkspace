@@ -2,9 +2,9 @@ package vo;
 
 public class Board {
 
-	int board_num;
-	String board_title;
-	String board_content; // int member_num; // 외래키임
+	private int board_num;
+	private String board_title;
+	private String board_content; // int member_num; // 외래키임
 	
 	public int getBoard_num() {
 		return board_num;
