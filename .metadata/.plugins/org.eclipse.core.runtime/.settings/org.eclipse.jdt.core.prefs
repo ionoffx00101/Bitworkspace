@@ -311,4 +311,3 @@ org.eclipse.jdt.core.formatter.wrap_before_binary_operator=true
 org.eclipse.jdt.core.formatter.wrap_before_or_operator_multicatch=true
 org.eclipse.jdt.core.formatter.wrap_outer_expressions_when_nested=true
 org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
-org.eclipse.jdt.core.userLibrary.json=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/bitjava/libs/json_simple-1.1.jar"/>\r\n</userlibrary>\r\n

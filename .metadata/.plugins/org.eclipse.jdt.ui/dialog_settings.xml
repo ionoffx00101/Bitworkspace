@@ -26,9 +26,9 @@
 		<item value="false" key="linkWithEditor"/>
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
-		<item value="531" key="DIALOG_WIDTH"/>
-		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
-		<item value="678" key="DIALOG_HEIGHT"/>
+		<item value="560" key="DIALOG_WIDTH"/>
+		<item value="1|D2Coding|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-127|3|2|1|49|D2Coding" key="DIALOG_FONT_NAME"/>
+		<item value="641" key="DIALOG_HEIGHT"/>
 		<item value="703" key="DIALOG_X_ORIGIN"/>
 		<item value="76" key="DIALOG_Y_ORIGIN"/>
 	</section>
@@ -62,9 +62,9 @@
 		<item value="true" key="showtypes"/>
 	</section>
 	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
-		<item value="531" key="DIALOG_WIDTH"/>
-		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
-		<item value="627" key="DIALOG_HEIGHT"/>
+		<item value="560" key="DIALOG_WIDTH"/>
+		<item value="1|D2Coding|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-127|3|2|1|49|D2Coding" key="DIALOG_FONT_NAME"/>
+		<item value="593" key="DIALOG_HEIGHT"/>
 		<item value="703" key="DIALOG_X_ORIGIN"/>
 		<item value="110" key="DIALOG_Y_ORIGIN"/>
 	</section>
@@ -97,6 +97,17 @@
 	<section name="GenerateConstructorUsingFieldsSelectionDialog">
 		<item value="false" key="OmitCallToSuper"/>
 	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="-38" key="DIALOG_X_ORIGIN"/>
+			<item value="-31" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
 		<item value="true" key="create_unimplemented"/>
@@ -112,9 +123,9 @@
 		<item value="212" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item value="540" key="DIALOG_WIDTH"/>
-		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
-		<item value="696" key="DIALOG_HEIGHT"/>
+		<item value="578" key="DIALOG_WIDTH"/>
+		<item value="1|D2Coding|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-127|3|2|1|49|D2Coding" key="DIALOG_FONT_NAME"/>
+		<item value="660" key="DIALOG_HEIGHT"/>
 		<item value="389" key="DIALOG_X_ORIGIN"/>
 		<item value="59" key="DIALOG_Y_ORIGIN"/>
 	</section>
@@ -131,9 +142,9 @@
 		</section>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
-		<item value="516" key="DIALOG_WIDTH"/>
-		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
-		<item value="691" key="DIALOG_HEIGHT"/>
+		<item value="521" key="DIALOG_WIDTH"/>
+		<item value="1|D2Coding|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|-127|3|2|1|49|D2Coding" key="DIALOG_FONT_NAME"/>
+		<item value="657" key="DIALOG_HEIGHT"/>
 		<item value="401" key="DIALOG_X_ORIGIN"/>
 		<item value="63" key="DIALOG_Y_ORIGIN"/>
 	</section>

@@ -25,6 +25,7 @@ public class Buy {
 	// 구매한 고객 이름
 	@OneToOne(cascade=CascadeType.PERSIST)
 	@JoinColumn(name="id",referencedColumnName="id")
+	//@JoinColumn(name="이 클래스꺼",referencedColumnName="저 클래스꺼")
 	/*@ManyToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     @JoinColumn(name = "id")*/
 	public Customer customer;

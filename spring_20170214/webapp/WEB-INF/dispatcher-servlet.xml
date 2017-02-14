@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+ http://www.springframework.org/schema/beans/spring-beans.xsd"><!-- 빈 태그가 어떤 자바코드로 변환할지 알려주는 주소임, 정의, 설정문서 주소 -->
+<bean id="depen3" class="com.coffee.spring02.DependencyBean03">
+<property name="num" value="30"></property>
+</bean>
+
+	
+
+</beans>
+<!--객체만 생성할때는 /으로 그냥 닫아줘도 ㄷ됨 그냥 빈 -->
+<!-- ref : "dependency 연결되는 객체(위에서 만든 dependenctbean01의 bean객체 id임) -->
+<!-- constructor-arg : 생성자 매개변수 순서대로 123넣어진다 -->
+<!-- constructor-arg value : 값일때 -->
+<!-- constructor-arg ref : 객체에다 넣는 값일때 -->
+<!--
+ <bean id="dependency" class="com.coffee.spring02.DependencyBean03"> 
+
+		<property name="num" value="10" />
+	</bean>
+	<bean id="service" class="com.coffee.spring01.iocServiceImple">
+		<property name="dependencyBean" ref="dependency"></property>
+	</bean>
+	<bean id="obj" class="com.coffee.spring01.MyObject">
+		<constructor-arg value="10" />
+		<constructor-arg value="20" />
+		<constructor-arg value="30" />
+	</bean>
+	<bean id="service02" class="com.coffee.spring02.iocServiceImple02_01">
+	
+		<constructor-arg ref="50" />
+	</bean>
+-->

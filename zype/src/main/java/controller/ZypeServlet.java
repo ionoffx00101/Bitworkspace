@@ -21,6 +21,7 @@ public class ZypeServlet extends HttpServlet {
 
 	@Autowired
 	private BoardService bs;
+	@SuppressWarnings("unused") // 쓸때 삭제 하길
 	@Autowired
 	private MemberService ms;
 	
