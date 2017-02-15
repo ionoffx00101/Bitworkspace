@@ -12,6 +12,7 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="\\192.168.1.7\실습문제\2017-02-15"/>
 			<item value="\\192.168.1.7\실습문제\2017-02-13"/>
 			<item value="C:\Users\BIT\workspace"/>
 			<item value="\\192.168.1.7\실습문제\2017-02-10"/>

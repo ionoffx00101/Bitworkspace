@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:context="http://www.springframework.org/schema/context"
+xsi:schemaLocation="http://www.springframework.org/schema/beans 
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context 
+	http://www.springframework.org/schema/context/spring-context.xsd">
+ <context:annotation-config/>
+<context:component-scan base-package="com.coffee" />
+</beans>
+<!-- <beans xmlns="http://www.springframework.org/schema/beans" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:context="http://www.springframework.org/schema/context" 
+xsi:schemalLocation="http://www.springframework.org/schema/beans 아래 경로 보기전에 더 큰경로
+http://www.springframework.org/schema/beans/spring-beans-3.1.xsd 실제로 참조 하는 xsd 경로
+http://www.springframework.org/schema/context 아래 경로 보기전에 더 큰 경로
+http://www.springframework.org/schema/context/spring-context-3.1.xsd" 실제로 참조 하는 xsd 경로>
+<context:annotation-config/> --><!-- 어노테이션 사용하겠다 --><!-- 이 설정을 해줘야 어노테이션이 자바로 넘어간다 -->
+<!-- <context:component-scan base-package="com.coffee" /> 위에랑 같은 설정인데 위에 설정이 잘 안될때 넣는 설정이다 패키지에는 지금 사용하는 프로젝트의 패키지 경로를 넣으면 되는 것같다-->
+<!-- com.coffee의 서브 폴더(패키지)에 어노테이션 정의 된 클래스가 있다 // 어노테이션을 실행시 자바코드로 바꿔라 -->
+<!-- ㄴ com.coffee 정의 하러 감 ㅇㅇ 걱정 ㄴ -->
+
+
+<!-- 근데 난 지금 base-package라고 할만한게 없는 프로젝트인데 흠.. 일단 주석 처리해두자-->
+<!-- spring_20170214 같이 maven시작 > spring이식한 프로젝트는 그런게 있는데 어.. -->
