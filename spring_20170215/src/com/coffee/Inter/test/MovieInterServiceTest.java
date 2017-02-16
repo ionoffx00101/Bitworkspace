@@ -2,6 +2,7 @@ package com.coffee.Inter.test;
 
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.coffee.Inter.MovieInterService1;
@@ -20,7 +21,8 @@ public class MovieInterServiceTest
 
 		MovieInterService2 src2 = (MovieInterService2) context.getBean("movieInterService2"); // 공유영역에서 찾으려는 객체의 이름을 넣기 > 그 객체 타입으로 형변환
 		System.out.println(src2);
-
+		
+		((ConfigurableApplicationContext)context).close();
 	}
 
 }

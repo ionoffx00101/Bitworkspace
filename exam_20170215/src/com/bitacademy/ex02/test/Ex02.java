@@ -1,9 +1,8 @@
 package com.bitacademy.ex02.test;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.bitacademy.ex02.service.LoginServiceImpl02;
@@ -27,6 +26,7 @@ public class Ex02
 		svc.login("guest", "12345");
 		//svc.login("g", "1234"); // 존재하지 않는 아이디 잘 됨
 		
+		((ConfigurableApplicationContext)context).close();
 	}
 
 }

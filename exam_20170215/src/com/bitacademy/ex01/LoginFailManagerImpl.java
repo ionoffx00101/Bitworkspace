@@ -1,12 +1,10 @@
 package com.bitacademy.ex01;
 
-import javax.inject.Inject;
-import javax.inject.Named;
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component("loginFailManagerImpl")
+// @Component(value = "loginFailManagerImpl") // 난 value= 없이 사용했는데 잘 적용이 되었다. 없어도 되는건가..
 public class LoginFailManagerImpl implements ILoginFailManager
 {
 	private int retryCount;

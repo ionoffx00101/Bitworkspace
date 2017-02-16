@@ -1,9 +1,8 @@
 package com.coffee.MVC.test;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.coffee.MVC.MovieService;
@@ -27,7 +26,7 @@ public class MovieServiceTest
 		// 1 MovieService [movieDAO = com.coffee.MVC.MovieDAO@510f3d34, MovieService의 객체 주소 = 2014838114]
 		// 2 MovieService [movieDAO = com.coffee.MVC.MovieDAO@510f3d34, MovieService의 객체 주소 = 2014838114]
 		// 3 MovieService [movieDAO = com.coffee.MVC.MovieDAO@510f3d34, MovieService의 객체 주소 = 2014838114]
-		
+		((ConfigurableApplicationContext)context).close();
 	}
 
 }

@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
-<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
-<fullyQualifiedTypeName name="com.bitacademy.customer.Customer"/>
-<fullyQualifiedTypeName name="java.lang.Long"/>
-<fullyQualifiedTypeName name="org.hibernate.Hibernate"/>
-<fullyQualifiedTypeName name="com.bitacademy.good.GoodDAO"/>
-<fullyQualifiedTypeName name="com.bitacademy.good.Good"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
-<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
-<fullyQualifiedTypeName name="com.bitacademy.buy.BuyDAO"/>
 <fullyQualifiedTypeName name="com.bitacademy.buy.Buy"/>
 <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
 <fullyQualifiedTypeName name="com.coffee.spring01.DependencyBean01"/>
@@ -33,22 +22,16 @@
 <fullyQualifiedTypeName name="com.coffee.MVC.MovieService"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
 <fullyQualifiedTypeName name="com.coffee.MVC.MovieServicePrototype"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.coffee.Inter.MovieInterService"/>
 <fullyQualifiedTypeName name="com.coffee.Inter.MovieInterService2"/>
 <fullyQualifiedTypeName name="com.coffee.Inter.MovieInterService1"/>
 <fullyQualifiedTypeName name="org.apache.commons.io.filefilter.FalseFileFilter"/>
 <fullyQualifiedTypeName name="com.coffee.Inter.MovieInterService3"/>
 <fullyQualifiedTypeName name="javax.annotation.Resource"/>
-<fullyQualifiedTypeName name="com.coffee.Inter.IMovieDAO"/>
 <fullyQualifiedTypeName name="com.coffee.MVC.MovieServiceResource"/>
-<fullyQualifiedTypeName name="com.bitacademy.ex01.ILoginService"/>
 <fullyQualifiedTypeName name="com.bitacademy.ex01.LoginFailManagerImpl"/>
 <fullyQualifiedTypeName name="com.bitacademy.ex01.LoginServiceImpl01"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
-<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
 <fullyQualifiedTypeName name="com.bitacademy.ex02.vo.Customer"/>
 <fullyQualifiedTypeName name="com.bitacademy.ex01.ILoginFailManager"/>
 <fullyQualifiedTypeName name="javax.inject.Inject"/>
@@ -60,4 +43,21 @@
 <fullyQualifiedTypeName name="com.bitacademy.ex02.service.LoginServiceImpl02"/>
 <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+<fullyQualifiedTypeName name="com.bitacademy.ex01.ILoginService"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.coffee.Inter.IMovieDAO"/>
+<fullyQualifiedTypeName name="com.coffee.Inter.MovieService4"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="com.bitacademy.professor.svc.IProfessorService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="com.bitacademy.professor.vo.Professor"/>
+<fullyQualifiedTypeName name="com.bitacademy.professor.dao.ProfessorDAO"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
 </qualifiedTypeNameHistroy>

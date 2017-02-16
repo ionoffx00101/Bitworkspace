@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>spring_20170216</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+	<servlet>
+		<servlet-name>dispatcher</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>dispatcher</servlet-name>
+		<url-pattern>/</url-pattern><!-- *.do -->
+	</servlet-mapping>
+</web-app>
+<!-- *.do(URL-pattern)가 붙은 URL은 dispatcherServlet이 처리해줌 -->
+<!-- 안 붙은거는 맨날 해주던 defaltServlet이 함 -->
+
+<!-- 패키지 : org.springframework.web.servlet -->
+<!-- 클래스 : DispatcherServlet -->
+<!-- DispatcherServlet이 하는 일 -->
+<!-- 서블렛 메서드 호출 -->
+<!-- 서블렛의 입력정보 처리 대신 해줌 -->
+<!-- 서블렛의 페이지 이동 대신 해줌 -->
+<!-- JSP > Servlet으로 만들기만 함 실행은 ㄴㄴ -->
+<!-- <url-pattern>/</url-pattern> 이거면 뭐 안 붙어도 되는 듯 -->
