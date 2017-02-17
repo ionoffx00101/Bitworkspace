@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="viewProfessorList">전체 교수 조회</a>
+	<a href="viewProfessorList">전체 교수 조회</a><br><br>
+	<a href="viewModelProfessorList">전체 교수 조회2</a>
+	
 </body>
 </html>

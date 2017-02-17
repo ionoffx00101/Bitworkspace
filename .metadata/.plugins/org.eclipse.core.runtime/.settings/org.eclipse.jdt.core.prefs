@@ -1,10 +1,10 @@
 eclipse.preferences.version=1
-org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/Users/BIT/Desktop/eclipse/plugins/org.aspectj.runtime_1.8.6.20150608154244.jar
-org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/BIT/Desktop/eclipse/
+org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/eclipse_neon2/plugins/org.aspectj.runtime_1.8.10.201612122115.jar
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/eclipse_neon2/
 org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_111/lib/rt.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
-org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/BIT/Desktop/eclipse/plugins/org.junit_4.11.0.v201303080030/
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/eclipse_neon2/plugins/org.junit_4.12.0.v201504281640/
 org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/BIT/.m2/repository
 org.eclipse.jdt.core.codeComplete.argumentPrefixes=
 org.eclipse.jdt.core.codeComplete.argumentSuffixes=
