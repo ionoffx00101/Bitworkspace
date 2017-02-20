@@ -18,7 +18,7 @@ public class Professor
 	private Long comm;
 	private java.sql.Date hiredate;
 	@OneToOne(cascade=CascadeType.PERSIST)
-	@JoinColumn(name="deptno",referencedColumnName="deptno")
+	@JoinColumn(name="deptno",referencedColumnName="deptno") // (name="내 컬럼",referencedColumnName="니 컬럼")
 	private Dept dept;
 	private String userid;
 	

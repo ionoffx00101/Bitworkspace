@@ -28,10 +28,10 @@ public class ProfessorArgumentResolver implements WebArgumentResolver
 			professor.setSal(Long.parseLong(request.getParameter("sal")));
 			professor.setComm(Long.parseLong(request.getParameter("comm")));
 			//
-			String requestDate = request.getParameter("date");
-			SimpleDateFormat transFormat = new SimpleDateFormat("yyyy-MM-dd");
-			java.util.Date utilDate = transFormat.parse(requestDate);
-			professor.setHiredate(new java.sql.Date(utilDate.getTime()));
+			String requestDate = request.getParameter("date"); // 사용자가 보낸 날짜를 스트링 타입으로 받기
+			SimpleDateFormat transFormat = new SimpleDateFormat("yyyy-MM-dd"); // 데이터 포맷 만들기
+			java.util.Date utilDate = transFormat.parse(requestDate); // 데이터 포맷을 이용해서 스트링날짜를 자바유틸날짜로 바꾸기
+			professor.setHiredate(new java.sql.Date(utilDate.getTime())); // 자바 유틸날짜를 sql날짜로 바꿔서 넣기
 			//
 			dept.setDeptno(Long.parseLong(request.getParameter("deptno")));
 			professor.setDept(dept);
