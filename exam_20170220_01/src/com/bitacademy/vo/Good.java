@@ -18,6 +18,55 @@ public class Good
 	private String detail;
 	private String img;
 
+	// JPA를 위한 매개변수 없는 생성자
+	public Good()
+	{
+		super();
+	}
+
+	public Good(Long gnum, String name, Long price, Long qty, String detail, String img)
+	{
+		super();
+		this.gnum = gnum;
+		this.name = name;
+		this.price = price;
+		this.qty = qty;
+		this.detail = detail;
+		this.img = img;
+	}
+
+
+	// alt+shift+s > generate
+	// hash and equal
+	// 검색을 원하는 속성 클릭.. 알아서 만들어줌
+	@Override
+	public int hashCode()
+	{
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((gnum == null) ? 0 : gnum.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj)
+	{
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Good other = (Good) obj;
+		if (gnum == null)
+		{
+			if (other.gnum != null)
+				return false;
+		} else if (!gnum.equals(other.gnum))
+			return false;
+		return true;
+	}
+
 	public Long getGnum()
 	{
 		return gnum;
