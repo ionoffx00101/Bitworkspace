@@ -40,8 +40,8 @@ public class MovieServiceJSON extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		 String clientId = "q01Uu7VgL08nJfpOcJ_7";//애플리케이션 클라이언트 아이디값";
-	        String clientSecret = "VjSox5_14m";//애플리케이션 클라이언트 시크릿값";
+		    String clientId = "YOUR_CLIENT_ID";//애플리케이션 클라이언트 아이디값";
+	        String clientSecret = "YOUR_CLIENT_SECRET";//애플리케이션 클라이언트 시크릿값";
 	        
 	        String text = request.getParameter("query");
 	        

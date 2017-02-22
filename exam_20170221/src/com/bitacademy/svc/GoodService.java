@@ -62,12 +62,15 @@ public class GoodService
 	public ModelAndView addGood(Good good, @RequestParam("uploadFile") MultipartFile file,HttpSession session) throws IllegalStateException, IOException
 	{
 		// uploadFile이 있는 지 없는 지 체크
+		// file != null / spring 2.x
+		// file.isEmpty() == false / spring 3.x 이상
+		// 그래서 둘 다 조건문에 넣어 준 것이다.
 		if (file != null && file.isEmpty() == false)
 		{
 			// 업로드한 파일이 저장될 폴더 경로
 			String savePath =  "C:/Users/BIT/workspace/exam_20170221/WebContent/photo";
 			// 업로드할 파일의 진짜 이름
-			String originName = file.getOriginalFilename();
+			String originName = file.getOriginalFilename(); // file.getName()하면 file의 내가 주어준 가짜이름을 가져와버린다. 화난다 
 			File waitUploadFile = new File(savePath+"/"+originName);
 			System.out.println(waitUploadFile.getName());
 			// 파일 중복이름있는 지 딴데 가서 확인하고 그걸로 바꿔치기함
@@ -83,6 +86,7 @@ public class GoodService
 			// 리얼 경로로 된 File 객체 만들기
 			File realPathFile = new File(realPath+"/"+waitUploadFile.getName());
 			// 파일 복사
+			// waitUploadFile를 복사해서 realPathFile경로에 붙여넣기
 			FileUtils.copyFile(waitUploadFile, realPathFile);
 			
 		}

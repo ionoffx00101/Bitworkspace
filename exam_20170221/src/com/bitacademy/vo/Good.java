@@ -8,12 +8,13 @@ import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
+//@SequenceGenerator(name = "시퀀스 설정 이름", sequenceName = "연결된 시퀀스 이름", initialValue = 초기값, allocationSize = 증가값)
 @SequenceGenerator(name = "good_seq20170220_gen", sequenceName = "good_seq20170220", initialValue = 1, allocationSize = 1)
 @Entity
 @Table(name = "TB_GOOD20170220")
 public class Good
 {
-
+	// @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "연결된 시퀀스 설정 이름")
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "good_seq20170220_gen")
 	@Id
 	private Long gnum;
@@ -23,7 +24,6 @@ public class Good
 	private Long qty;
 	private String detail;
 	private String img;
-	
 
 	// JPA를 위한 매개변수 없는 생성자
 	public Good()
