@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="CleanDialogSettings">
 		<item value="500" key="DIALOG_WIDTH"/>
-		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
 		<item value="378" key="DIALOG_HEIGHT"/>
 		<item value="710" key="DIALOG_X_ORIGIN"/>
 		<item value="268" key="DIALOG_Y_ORIGIN"/>
@@ -12,6 +12,7 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="\\192.168.1.7\실습문제\2017-02-23"/>
 			<item value="\\192.168.1.7\JavaWorkspace2"/>
 			<item value="\\192.168.1.7\실습문제\2017-02-20"/>
 			<item value="\\192.168.1.7\실습문제\2017-02-17"/>

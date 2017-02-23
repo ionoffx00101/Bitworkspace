@@ -19,6 +19,7 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="jackson"/>
 			<item value="bit"/>
 			<item value="실습"/>
 			<item value="십습"/>
@@ -26,7 +27,6 @@
 			<item value="al"/>
 			<item value="checkResult"/>
 			<item value="COLNAME"/>
-			<item value="set"/>
 		</list>
 		<list key="replacehistory">
 		</list>
