@@ -7,9 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p>
-		<a href="viewCarListForm.do">viewCarListForm</a>
-		<a href="helloLog.do">helloLog.do</a>
-	</p>
+	<form action="login.do" method="post">
+		<input type="text" name="id" />
+		<input type="password" name="pw" />
+		<input type="submit" value="submit" />
+	</form>
 </body>
 </html>

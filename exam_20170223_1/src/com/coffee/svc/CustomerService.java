@@ -1,9 +1,5 @@
 package com.coffee.svc;
 
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.request;
-
-import java.util.List;
-
 import javax.inject.Inject;
 import javax.inject.Named;
 
@@ -17,7 +13,6 @@ import com.coffee.dao.CollegeDAO;
 import com.coffee.dao.CustomerDAO;
 import com.coffee.dao.DeptDAO;
 import com.coffee.vo.Customer;
-import com.coffee.vo.Dept;
 
 @Controller
 public class CustomerService
@@ -74,6 +69,7 @@ public class CustomerService
 	@RequestMapping(value="/addCustomer.do")
 	public String addCustomer(Customer customer)
 	{
+		System.out.println(customer);
 		customerDAO.save(customer);
 		return "redirect:/viewGoodList.do";
 	}

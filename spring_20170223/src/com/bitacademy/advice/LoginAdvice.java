@@ -2,10 +2,6 @@ package com.bitacademy.advice;
 
 import org.apache.log4j.Logger;
 import org.aspectj.lang.JoinPoint;
-import org.aspectj.lang.annotation.After;
-import org.aspectj.lang.annotation.AfterReturning;
-import org.aspectj.lang.annotation.AfterThrowing;
-import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.springframework.stereotype.Component;
@@ -22,48 +18,22 @@ public class LoginAdvice
 {
 	// @Pointcut 이 메서드를 스프링이 언제 자동으로 호출 할지 설정
 	// @Pointcut("")
-	// "execution(접근연산자^리턴타입^패키지.서비스.메소드(매개변수))"
+	// "execution(접근제한자^리턴타입^패키지.서비스.메소드(매개변수))"
 
-	// @Before 메소드 실행 전
-	@Before("execution(public String com.bitacademy.aop.AService.a1())")
-	public void loginBefore(JoinPoint jp)
+	// @Before + OR / 설정된 둘 중 한 메소드가 실행 전 / 줄 바뀌면 안된다.
+	//@Before("execution(public String com.bitacademy.aop.AService.a1()) || execution(public String com.bitacademy.aop.AService.a2())")
+	public void loginBeforeOR(JoinPoint jp)
 	{
 		Logger logger = Logger.getLogger(getClass());
-		logger.warn("LoginAdvice.loginBefore(---------)");
+		logger.warn("LoginAdvice.loginBeforeOR(||||||||||||||||||||||)");
 	}
-
-	// @AfterReturning 연결된 메소드가 에러없이 잘 실행이 끝나면 그때
-	@AfterReturning("execution(public String com.bitacademy.aop.AService.a1())")
-	public void loginAfterReturning(JoinPoint jp)
+	// @Before + Wildcard / 설정된 메소드가 실행 전 
+	// .*.(*) 아무거나..
+	//@Before("execution(public String com.bitacademy.aop.AService.c*(*,..)))")
+	public void loginBeforeWildcard(JoinPoint jp)
 	{
 		Logger logger = Logger.getLogger(getClass());
-		logger.warn("LoginAdvice.loginAfterReturning(---------)");
+		logger.warn("LoginAdvice.loginBeforeWildcard(*************)");
 	}
 
-	// @AfterThrowing 연결된 메소드가 에러 있는 상태로 종료시
-	@AfterThrowing("execution(public String com.bitacademy.aop.AService.a1())")
-	public void loginAfterThrowing(JoinPoint jp)
-	{
-		Logger logger = Logger.getLogger(getClass());
-		logger.warn("LoginAdvice.loginAfterThrowing(---------)");
-	}
-
-	// @After 에러가 나든 말든 연결된 메소드가 종료 후 실행
-	// @After는 @AfterReturning,@AfterThrowing보다 먼저 실행된다
-	@After("execution(public String com.bitacademy.aop.AService.a1())")
-	public void loginAfter(JoinPoint jp)
-	{
-		Logger logger = Logger.getLogger(getClass());
-		logger.warn("LoginAdvice.loginAfter(---------)");
-	}
-
-	// @Around 연결된 메소드 대신 실행된다. 연결된 메소드는 실행도 안된다.
-	// @Around가 사용되면 연결된 메소드가 실행이 안되니 @Before로 설정된것은 실행이 안된다.
-	// @After 친구들은 실행된다.
-	@Around("execution(public String com.bitacademy.aop.AService.a1())")
-	public void loginAround(JoinPoint jp)
-	{
-		Logger logger = Logger.getLogger(getClass());
-		logger.warn("LoginAdvice.loginAround(---------)");
-	}
 }

@@ -109,6 +109,14 @@
 		<property name="maxInMemorySize" value="100000000" />
 	</bean>
 	<!-- 파일 업로드 설정 끝 -->
+	
+	<!-- CustomerArgumentResolver 설정 / 이게 없는 데 어떻게 저장된건지 잘 모르겠다 /  아마 dept항목이 제대로 안 들어갔을 것이다 확인해봐라 -->
+	 <mvc:annotation-driven>
+     	<mvc:argument-resolvers>
+     		<bean 
+     	class="com.coffee.resolver.CustomerArgumentResolver"/>
+     	</mvc:argument-resolvers>
+     </mvc:annotation-driven>
 </beans>
 
 

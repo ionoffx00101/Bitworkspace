@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello
-${msg}
+로그인 정보 <br/>
+${sessionScope.login_customer}
 </body>
 </html>

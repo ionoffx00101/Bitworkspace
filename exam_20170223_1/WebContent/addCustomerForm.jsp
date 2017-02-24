@@ -16,7 +16,7 @@
 						type : "post",
 						dataType : "text",
 						data : {
-							userid:$("#idCheck").val()
+							"userid":$("#idCheck").val()
 						},
 						success : function(data) {
 							$("#idCheckResult").empty();
@@ -63,13 +63,13 @@
 			<span id="idCheckResult"></span> <br /> 비번 :
 			<input type="password" name="pw">
 			<br /> 단과대학 :
-			<select id="collegeListSelect">
+			<select name="colno" id="collegeListSelect">
 				<c:forEach items="${collegeList}" var="college">
 					<option value="${college.colno}">${college.cname}</option>
 				</c:forEach>
 			</select>
 			<br /> 학과 :
-			<select id="deptListSelect">
+			<select name="deptno" id="deptListSelect">
 				<c:forEach items="${deptList}" var="dept">
 					<option value="${dept.deptno}">${dept.dname}</option>
 				</c:forEach>

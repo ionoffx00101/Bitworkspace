@@ -86,7 +86,7 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>2.8.6</version>
 		</dependency>
-		
+
 		<!-- 2월23일 log사용을 위해 추가된 디펜던시 + aop사용도 됨 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -114,6 +114,22 @@
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
 		</dependency>
+		
+		<!-- 시작 : 24일 추가된 라이브러리 -->
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-test -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>${spring-framework.version}</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.easymock/easymock -->
+		<dependency>
+			<groupId>org.easymock</groupId>
+			<artifactId>easymock</artifactId>
+			<version>3.4</version>
+		</dependency>
+		<!-- 끝 : 24일 추가된 라이브러리 -->
+		
 	</dependencies>
 
 	<build>

@@ -14,7 +14,7 @@ public class CustomerArgumentResolver implements WebArgumentResolver
 	@Override
 	public Object resolveArgument(MethodParameter methodParameter, NativeWebRequest request) throws Exception
 	{
-		// 메소드 파라미터 타입이 Customer일때만 끼어든다
+		// 메소드 파라미터(매개변수) 타입이 Customer일때만 끼어든다
 		if (methodParameter.getParameterType() == Customer.class)
 		{
 			// 데이터 담을 객체를 만든다.
@@ -23,7 +23,7 @@ public class CustomerArgumentResolver implements WebArgumentResolver
 			Customer customer = new Customer();
 			Dept dept = new Dept();
 			College college = new College();
-
+System.out.println("##########"+request.getParameter("deptno"));
 			// 데이터를 넣자
 			customer.setName(request.getParameter("name"));
 			customer.setUserid(request.getParameter("userid"));
