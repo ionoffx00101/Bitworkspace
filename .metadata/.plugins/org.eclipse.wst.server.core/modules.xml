@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
+  <module moduleId="org.eclipse.jst.jee.server:exam_20170227" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:exam_20170206" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:exam_20170207" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:exam_20170208" serverId="Tomcat v8.0 Server at localhost"/>
@@ -13,6 +14,7 @@
   <module moduleId="org.eclipse.jst.jee.server:exam_20170221" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:spring_20170222" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:spring_20170221" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring_20170227" serverId="Tomcat v8.5 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:brain12" serverId="Tomcat v8.0 Server at 192.168.1.17"/>
   <module moduleId="org.eclipse.jst.jee.server:bitweb2" serverId="Tomcat v8.0 Server at 192.168.1.17"/>
   <module moduleId="org.eclipse.jst.jee.server:spring_20170218" serverId="Tomcat v8.5 Server at localhost"/>
