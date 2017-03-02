@@ -1,0 +1,12 @@
+drop table tbdept2;
+
+CREATE TABLE tbdept2(
+  deptno NUMERIC(4) primary key,
+  dname VARCHAR(60),
+  loc VARCHAR(60)
+  );
+
+insert into tbdept2 values (100,'컴퓨터공학과','공학1관');
+insert into tbdept2 values (101,'미디어공학과','공학2관');
+
+commit;

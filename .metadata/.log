@@ -531,3 +531,777 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2017-03-02 09:08:11.290 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-02 09:08:47.149
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\BIT'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 09:09:00.197
+!MESSAGE The POM for com.oracle:ojdbc6:jar:12.1.0.1-atlassian-hosted is missing, no dependency information available
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 09:25:54.360
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 09:25:54.376
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 09:27:23.414
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 09:27:23.430
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 09:35:35.551
+!MESSAGE Full project indexing required:
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:122)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:08:21.790
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:08:21.805
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 14:08:57.905
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 14:08:57.905
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:09:17.236
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:09:17.251
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 14:09:17.361
+!MESSAGE Full project indexing required:
+  [+] C:\Users\BIT\.m2\repository\com\github\virtuald\curvesapi\1.03\curvesapi-1.03.jar
+  [+] C:\Users\BIT\.m2\repository\com\thoughtworks\xstream\xstream\1.4.8\xstream-1.4.8.jar
+  [+] C:\Users\BIT\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+  [+] C:\Users\BIT\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar
+  [+] C:\Users\BIT\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.14\poi-ooxml-schemas-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml\3.14\poi-ooxml-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi\3.14\poi-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\dbunit\dbunit\2.5.3\dbunit-2.5.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar
+  [+] C:\Users\BIT\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar
+  [+] C:\Users\BIT\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:09:18.001
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:09:18.001
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:09:48.054
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:09:48.054
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:12:14.425
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:12:14.441
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:13:34.707
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:13:34.722
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:13:47.897
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:13:47.897
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:14:03.011
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:14:03.011
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:29.651
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:29.667
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 14:15:29.761
+!MESSAGE Full project indexing required:
+  [+] C:\Users\BIT\.m2\repository\com\github\virtuald\curvesapi\1.03\curvesapi-1.03.jar
+  [+] C:\Users\BIT\.m2\repository\com\thoughtworks\xstream\xstream\1.4.8\xstream-1.4.8.jar
+  [+] C:\Users\BIT\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+  [+] C:\Users\BIT\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar
+  [+] C:\Users\BIT\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar
+  [+] C:\Users\BIT\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.14\poi-ooxml-schemas-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml\3.14\poi-ooxml-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi\3.14\poi-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\dbunit\dbunit\2.5.3\dbunit-2.5.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-beans\4.3.6.RELEASE\spring-beans-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-core\4.3.6.RELEASE\spring-core-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-jdbc\4.3.6.RELEASE\spring-jdbc-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-tx\4.3.6.RELEASE\spring-tx-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar
+  [+] C:\Users\BIT\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:30.917
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:30.917
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:35.652
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:35.668
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:56.640
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:15:56.640
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:21:05.253
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:21:05.253
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:21:30.807
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:21:30.823
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:22:50.294
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:22:50.294
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:22:52.138
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:22:52.138
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:24:17.331
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:24:17.331
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:24:25.427
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:24:25.427
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:25:16.252
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:25:16.252
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:25:31.239
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:25:31.255
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:26:55.286
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:26:55.286
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 14:27:47.266
+!MESSAGE Full project indexing required:
+  [+] C:\Users\BIT\.m2\repository\com\github\virtuald\curvesapi\1.03\curvesapi-1.03.jar
+  [+] C:\Users\BIT\.m2\repository\com\thoughtworks\xstream\xstream\1.4.8\xstream-1.4.8.jar
+  [+] C:\Users\BIT\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+  [+] C:\Users\BIT\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar
+  [+] C:\Users\BIT\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar
+  [+] C:\Users\BIT\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.14\poi-ooxml-schemas-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml\3.14\poi-ooxml-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi\3.14\poi-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\dbunit\dbunit\2.5.3\dbunit-2.5.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-beans\4.3.6.RELEASE\spring-beans-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-core\4.3.6.RELEASE\spring-core-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-jdbc\4.3.6.RELEASE\spring-jdbc-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-tx\4.3.6.RELEASE\spring-tx-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar
+  [+] C:\Users\BIT\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5521)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:105)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter$1.run(WorkbenchRunnableAdapter.java:118)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:27:47.602
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:27:47.602
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:30:11.537
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:30:11.537
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.recommenders.rcp 4 18 2017-03-02 14:30:41.417
+!MESSAGE Failed to resolve selection in ‘=junit_20170302/src<com.bitacademy.dbunit.test{DBUnitTest01.java’ at offset 1,089.
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromTypeRootInEditor(JavaElementSelections.java:164)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromEditor(JavaElementSelections.java:119)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromEditor(JavaElementSelections.java:102)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.handleSelectionInEditor(JavaElementSelectionService.java:108)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.access$1(JavaElementSelectionService.java:105)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService$1.run(JavaElementSelectionService.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:32:16.340
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:32:16.340
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 14:32:16.434
+!MESSAGE Full project indexing required:
+  [+] C:\Users\BIT\.m2\repository\com\github\virtuald\curvesapi\1.03\curvesapi-1.03.jar
+  [+] C:\Users\BIT\.m2\repository\com\thoughtworks\xstream\xstream\1.4.8\xstream-1.4.8.jar
+  [+] C:\Users\BIT\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+  [+] C:\Users\BIT\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar
+  [+] C:\Users\BIT\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar
+  [+] C:\Users\BIT\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.14\poi-ooxml-schemas-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml\3.14\poi-ooxml-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi\3.14\poi-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\dbunit\dbunit\2.5.3\dbunit-2.5.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-beans\4.3.6.RELEASE\spring-beans-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-core\4.3.6.RELEASE\spring-core-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-jdbc\4.3.6.RELEASE\spring-jdbc-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-test\4.3.6.RELEASE\spring-test-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-tx\4.3.6.RELEASE\spring-tx-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar
+  [+] C:\Users\BIT\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:32:16.684
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:32:16.700
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:32:25.545
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:32:25.545
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:36:50.561
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:36:50.576
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 14:39:31.960
+!MESSAGE Full project indexing required:
+  [+] C:\Users\BIT\.m2\repository\com\github\virtuald\curvesapi\1.03\curvesapi-1.03.jar
+  [+] C:\Users\BIT\.m2\repository\com\thoughtworks\xstream\xstream\1.4.8\xstream-1.4.8.jar
+  [+] C:\Users\BIT\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+  [+] C:\Users\BIT\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar
+  [+] C:\Users\BIT\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar
+  [+] C:\Users\BIT\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.14\poi-ooxml-schemas-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi-ooxml\3.14\poi-ooxml-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\poi\poi\3.14\poi-3.14.jar
+  [+] C:\Users\BIT\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\dbunit\dbunit\2.5.3\dbunit-2.5.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\slf4j-api\1.7.21\slf4j-api-1.7.21.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-beans\4.3.6.RELEASE\spring-beans-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-core\4.3.6.RELEASE\spring-core-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-jdbc\4.3.6.RELEASE\spring-jdbc-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-test\4.3.6.RELEASE\spring-test-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-tx\4.3.6.RELEASE\spring-tx-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar
+  [+] C:\Users\BIT\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\aopalliance.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\asm-3.3.1.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\aspectjrt.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\aspectjtools.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\aspectjweaver.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\cglib-2.2.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-beanutils-1.8.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-beanutils-1.8.3.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-beanutils-bean-collections-1.8.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-beanutils-bean-collections-1.8.3.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-beanutils-core-1.8.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-beanutils-core-1.8.3.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-collections-3.2.1.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-collections-testframework-3.2.1.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-fileupload-1.2.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-io-2.4.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-lang-2.4.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-lang-2.6.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-logging-1.1.1.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\commons-logging-adapters-1.1.1.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\dbunit-2.4.9.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\ezmorph-1.0.6.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\ibatis-2.3.4.726.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\jdom.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\json-lib-2.3-jdk15.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\jstl.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\log4j-1.2.16.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\mybatis-3.1.0.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\ojdbc14.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.aspectj.matcher.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.aop-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.asm-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.aspects-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.beans-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.context-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.context.support-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.core-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.expression-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.instrument-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.web-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\org.springframework.web.servlet-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\slf4j-api-1.6.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\slf4j-api-1.7.7.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\slf4j-log4j12-1.6.2.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\spring-test-3.1.3.RELEASE.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\spring-test.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\spring.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\standard.jar
+  [+] C:\Users\BIT\workspace\junit_20170302\lib\xstream-1.4.9.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5521)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:105)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter$1.run(WorkbenchRunnableAdapter.java:118)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:39:32.210
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:39:32.210
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:39:52.298
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:39:52.298
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:41:04.378
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:41:04.393
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:43:16.988
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:43:17.004
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:48:12.282
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:48:12.282
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:49:33.544
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:49:33.544
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:55:42.014
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:55:42.014
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:55:45.499
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:55:45.499
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:57:12.122
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:57:12.138
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:57:28.985
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:57:28.985
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:57:37.070
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-02 14:57:37.086
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 17:11:15.478
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 17:11:15.493
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 17:11:15.509
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 17:11:15.509
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2017-03-02 17:31:38.842
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/tools/mylyn/update/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:333)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:236)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:456)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:389)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:196)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:456)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2017-03-02 17:31:38.842
+!MESSAGE No repository found at http://download.eclipse.org/tools/mylyn/update/.
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-02 17:33:20.596
+!MESSAGE Full project indexing required:
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar
+  [+] C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar
+  [+] C:\Users\BIT\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar
+  [+] C:\Users\BIT\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.8.0\jackson-annotations-2.8.0.jar
+  [+] C:\Users\BIT\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.8.6\jackson-core-2.8.6.jar
+  [+] C:\Users\BIT\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.8.6\jackson-databind-2.8.6.jar
+  [+] C:\Users\BIT\.m2\repository\com\thoughtworks\xstream\xstream\1.4.9\xstream-1.4.9.jar
+  [+] C:\Users\BIT\.m2\repository\commons-fileupload\commons-fileupload\1.3.1\commons-fileupload-1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar
+  [+] C:\Users\BIT\.m2\repository\commons-logging\commons-logging\1.1\commons-logging-1.1.jar
+  [+] C:\Users\BIT\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar
+  [+] C:\Users\BIT\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar
+  [+] C:\Users\BIT\.m2\repository\javax\servlet\javax.servlet-api\3.0.1\javax.servlet-api-3.0.1.jar
+  [+] C:\Users\BIT\.m2\repository\javax\servlet\jsp\javax.servlet.jsp-api\2.3.1\javax.servlet.jsp-api-2.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar
+  [+] C:\Users\BIT\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  [+] C:\Users\BIT\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+  [+] C:\Users\BIT\.m2\repository\org\aspectj\aspectjlib\1.6.2\aspectjlib-1.6.2.jar
+  [+] C:\Users\BIT\.m2\repository\org\aspectj\aspectjrt\1.8.0\aspectjrt-1.8.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\aspectj\aspectjweaver\1.8.0\aspectjweaver-1.8.0.jar
+  [+] C:\Users\BIT\.m2\repository\org\easymock\easymock\3.4\easymock-3.4.jar
+  [+] C:\Users\BIT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\BIT\.m2\repository\org\hibernate\common\hibernate-commons-annotations\4.0.1.Final\hibernate-commons-annotations-4.0.1.Final.jar
+  [+] C:\Users\BIT\.m2\repository\org\hibernate\hibernate-core\4.1.9.Final\hibernate-core-4.1.9.Final.jar
+  [+] C:\Users\BIT\.m2\repository\org\hibernate\hibernate-entitymanager\4.1.9.Final\hibernate-entitymanager-4.1.9.Final.jar
+  [+] C:\Users\BIT\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.0-api\1.0.1.Final\hibernate-jpa-2.0-api-1.0.1.Final.jar
+  [+] C:\Users\BIT\.m2\repository\org\javassist\javassist\3.17.1-GA\javassist-3.17.1-GA.jar
+  [+] C:\Users\BIT\.m2\repository\org\jboss\jandex\2.0.0.Final\jandex-2.0.0.Final.jar
+  [+] C:\Users\BIT\.m2\repository\org\jboss\logging\jboss-logging\3.1.0.GA\jboss-logging-3.1.0.GA.jar
+  [+] C:\Users\BIT\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.1_spec\1.0.0.Final\jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+  [+] C:\Users\BIT\.m2\repository\org\objenesis\objenesis\2.2\objenesis-2.2.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.22\jcl-over-slf4j-1.7.22.jar
+  [+] C:\Users\BIT\.m2\repository\org\slf4j\slf4j-api\1.7.22\slf4j-api-1.7.22.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\data\spring-data-commons\1.13.0.RELEASE\spring-data-commons-1.13.0.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\data\spring-data-jpa\1.11.0.RELEASE\spring-data-jpa-1.11.0.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-aop\4.3.6.RELEASE\spring-aop-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-beans\4.3.6.RELEASE\spring-beans-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-context\4.3.6.RELEASE\spring-context-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-core\4.3.6.RELEASE\spring-core-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-expression\4.3.6.RELEASE\spring-expression-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-jdbc\4.3.6.RELEASE\spring-jdbc-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-orm\4.3.6.RELEASE\spring-orm-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-test\2.5\spring-test-2.5.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-tx\4.3.6.RELEASE\spring-tx-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-web\4.3.6.RELEASE\spring-web-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-webmvc\4.3.6.RELEASE\spring-webmvc-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\org\springframework\spring-websocket\4.3.6.RELEASE\spring-websocket-4.3.6.RELEASE.jar
+  [+] C:\Users\BIT\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar
+  [+] C:\Users\BIT\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar
+  [+] C:\Users\BIT\workspace\exam_20170302\WebContent\WEB-INF\lib\ojdbc6.jar
+  [+] C:\apache-tomcat-8.5.11\lib\annotations-api.jar
+  [+] C:\apache-tomcat-8.5.11\lib\catalina-ant.jar
+  [+] C:\apache-tomcat-8.5.11\lib\catalina-ha.jar
+  [+] C:\apache-tomcat-8.5.11\lib\catalina-storeconfig.jar
+  [+] C:\apache-tomcat-8.5.11\lib\catalina-tribes.jar
+  [+] C:\apache-tomcat-8.5.11\lib\catalina.jar
+  [+] C:\apache-tomcat-8.5.11\lib\ecj-4.5.1.jar
+  [+] C:\apache-tomcat-8.5.11\lib\el-api.jar
+  [+] C:\apache-tomcat-8.5.11\lib\jasper-el.jar
+  [+] C:\apache-tomcat-8.5.11\lib\jasper.jar
+  [+] C:\apache-tomcat-8.5.11\lib\jaspic-api.jar
+  [+] C:\apache-tomcat-8.5.11\lib\jsp-api.jar
+  [+] C:\apache-tomcat-8.5.11\lib\ojdbc6.jar
+  [+] C:\apache-tomcat-8.5.11\lib\servlet-api.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-api.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-coyote.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-dbcp.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-i18n-es.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-i18n-fr.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-i18n-ja.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-jdbc.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-jni.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-util-scan.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-util.jar
+  [+] C:\apache-tomcat-8.5.11\lib\tomcat-websocket.jar
+  [+] C:\apache-tomcat-8.5.11\lib\websocket-api.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:122)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 18:46:22.508
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-02 18:46:22.508
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
