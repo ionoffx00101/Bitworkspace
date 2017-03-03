@@ -14,7 +14,8 @@
 		var userListSock = new SockJS(
 				"http://localhost:8085/exam_20170302/loginUserList.do");
 		userListSock.onopen = function() {
-			userListSock.send("Anybody Out there?");
+			userListSock.send("Anybody Out there?"); // 저쪽에서 start를 받을때에는 내가 start라는 말을 보내야겠지.
+			//userListSock.send('start','${LOGIN_USER.id}');
 		};
 		userListSock.onmessage = function(data) {
 
@@ -28,7 +29,7 @@
 			// 7.  $(“#로그인중인 사용자 리스트가 출력되는 textarea아이디”).append(6변수+”\n”);
 			$('#loginUserList').text('');
 			// ? 저위에 functioon매개변수 아닙니까
-			var json = jQuery.parseJSON(data);
+			var json = jQuery.parseJSON(data); // $.parseJSOON(data.data)
 			// 34567
 			for (var i = 0; i < json.list.length; i++) {
 				var user = json.list[i]; // 이게 맞나
@@ -44,7 +45,7 @@
 			sock.send('start,' + '${sessionScope.LOGIN_USER.id}');
 		};
 		sock.onmessage = function(message) {
-			alert(message.data);
+			//alert(message.data);
 			var xmlDoc = $.parseXML(message.data);
 			var $xml = $(xmlDoc);
 

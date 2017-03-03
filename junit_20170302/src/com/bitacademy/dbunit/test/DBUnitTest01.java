@@ -24,6 +24,7 @@ public class DBUnitTest01
 {
 	// Driver 객체 생성
 	DriverManagerDataSource dataSource = new DriverManagerDataSource();
+	private String xmlPath = "export.xml";
 
 	@Before // @Test 하기 전에 실행됨
 	public void dbinit()
@@ -44,8 +45,9 @@ public class DBUnitTest01
 		System.out.println("table.script를 실행함");
 
 		// 쿼리 백업
+		// exportRecord()
+		// 쿼리 복원 import
 
-		// 쿼리 복원
 	}
 
 	@Test
@@ -53,16 +55,16 @@ public class DBUnitTest01
 	{
 		// ?
 		IDatabaseConnection dbConnection = new DatabaseConnection(dataSource.getConnection());
-		
+
 		// ?
 		QueryDataSet partialDataSet = new QueryDataSet(dbConnection);
 
-		// 백업하려는 테이블 명, 전체 리스트 부르는 쿼리문
+		// 백업하려는 테이블 명, 백업하려는 레코드를 부르는 쿼리문
 		partialDataSet.addTable("tbdept2", "select * from tbdept2");
-		
+
 		// FlatXmlDataSet.write(dataSet, out);
 		// FlatXmlDataSet.write(QueryDataSet, 파일 내보내기(내보내는 파일명.확장자));
-		FlatXmlDataSet.write(partialDataSet, new FileOutputStream("export.xml"));
+		FlatXmlDataSet.write(partialDataSet, new FileOutputStream(xmlPath));
 	}
 
 }

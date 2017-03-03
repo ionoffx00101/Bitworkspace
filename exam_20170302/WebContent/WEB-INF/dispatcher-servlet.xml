@@ -118,24 +118,22 @@
 			</value>
 		</property>
 	</bean>
+
 	<bean id="socketList" class="java.util.ArrayList" />
+	<bean id="loginUserList" class="java.util.ArrayList" />
 	<bean id="chatmsgHandler" class="com.bitacademy.chat.ChatmsgHandler" />
+	<bean id="loginUserListHandler" class="com.bitacademy.user.LoginUserListHandler" />
 	<websocket:handlers>
 		<websocket:mapping path="/chatmsg.do" handler="chatmsgHandler" />
-
+		<websocket:mapping path="/loginUserList.do" handler="loginUserListHandler" />
 		<websocket:sockjs />
 
 	</websocket:handlers>
 
-	<!-- LoginUserListHandler 가 주입 받는 ArrayList 타입 객체 loginUserList 를 선언한다 -->
-	<!-- LoginUserListHandler 객체 생성을 선언한다 -->
-	<bean id="loginUserList" class="java.util.ArrayList" />
-	<bean id="loginUserListHandler" class="com.bitacademy.user.LoginUserListHandler" />
-	<websocket:handlers> <!-- 새로 추가 -->
-	<websocket:mapping path="/loginUserList.do" handler="loginUserListHandler" />
-		<!-- loginUserList.do 라는 요청이 있을때 LoginUserListHandler 객체가 처리하도록 설정을 추가한다 -->
-		<websocket:sockjs />
-	</websocket:handlers>
+	<!--합칠수 있었다. <bean id="loginUserList" class="java.util.ArrayList" /> <bean 
+		id="loginUserListHandler" class="com.bitacademy.user.LoginUserListHandler" 
+		/> <websocket:handlers> 새로 추가 <websocket:mapping path="/loginUserList.do" 
+		handler="loginUserListHandler" /> <websocket:sockjs /> </websocket:handlers> -->
 
 
 	<aop:aspectj-autoproxy proxy-target-class="false"

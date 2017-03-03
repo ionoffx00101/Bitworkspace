@@ -14,22 +14,26 @@ import com.bitacademy.user.LoginUserListHandler;
 @Configuration
 @EnableWebSocket
 @EnableWebMvc
-public class ChatmsgConfig 
-   extends WebMvcConfigurerAdapter implements WebSocketConfigurer{
+public class ChatmsgConfig extends WebMvcConfigurerAdapter implements WebSocketConfigurer
+{
 	@Bean
-	public ChatmsgHandler getHandler(){
+	public ChatmsgHandler getHandler()
+	{
 		return new ChatmsgHandler();
 	}
-         @Bean
-	public LoginUserListHandler getLoginUserListHandler (){
+	@Bean
+	public LoginUserListHandler getLoginUserListHandler()
+	{
 		return new LoginUserListHandler();
 	}
-	public void registerWebSocketHandlers(WebSocketHandlerRegistry registry) {
+	public void registerWebSocketHandlers(WebSocketHandlerRegistry registry)
+	{
 		registry.addHandler(getHandler(), "chatmsg.do").withSockJS();
-                      registry.addHandler(getLoginUserListHandler(), "loginUserList.do").withSockJS();
+		registry.addHandler(getLoginUserListHandler(), "loginUserList.do").withSockJS(); // loginUserList.do 넣으면서 새로 추가된 핸들러
 	}
 	@Override
-	public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) {
-		 configurer.enable();
+	public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer)
+	{
+		configurer.enable();
 	}
 }
