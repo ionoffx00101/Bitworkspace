@@ -1,3 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\BIT\\workspace\\.git;C\:\\Users\\BIT\\Aptana Rubles\\bundle-development.ruble\\.git;C\:\\Users\\BIT\\Aptana Rubles\\javascript-jquery.ruble\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\BIT\\Aptana Rubles\\bundle-development.ruble\\.git;C\:\\Users\\BIT\\Aptana Rubles\\javascript-jquery.ruble\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\BIT\\workspace\\.git;C\:\\Users\\BIT\\git\\bitjava20170303\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\BIT\\git\\bitjava20170303\\.git;
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=C\:\\Users\\BIT\\workspacegit
 eclipse.preferences.version=1
