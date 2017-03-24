@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
-<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
-<fullyQualifiedTypeName name="javax.persistence.Column"/>
 <fullyQualifiedTypeName name="javax.persistence.Temporal"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.CreationTimestamp"/>
 <fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="com.bitacademy.maven.HelloMaven"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.tobo.zyde.Circle"/>
+<fullyQualifiedTypeName name="com.tobo.zyde.Cylinder"/>
 </qualifiedTypeNameHistroy>
